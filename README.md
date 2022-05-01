@@ -2259,7 +2259,8 @@ https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master.m3u8
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 
 
-
+#EXTINF:-1 tvg-chno="9" tvg-id="Magic Kids" tvg-name="Magic Kids" tvg-logo="https://i.postimg.cc/HWQ2bryL/magic-image.jpg" group-title="Adolescente-Adulto",Magic Kids Tv
+https://poast.tv/static/streaming-playlists/hls/fc9e3b77-176e-46b1-b610-bf61910de78a/0.m3u8
 
 
 
