@@ -51,7 +51,8 @@ https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/conectatetvpr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B7odp7O.png" group-title="Familiares",Retro Magico
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
-
+#EXTINF:-1 tvg-id="Big Channel" tvg-name="Big Channel" tvg-logo="https://i.imgur.com/WUsb3d1.png" group-title="Familiares",Big Channel
+https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="Magic Kids Tv" tvg-name="Magic Kids Tv" tvg-logo="https://i.imgur.com/Uu8dciU.png" group-title="CANALES INDEPENDIENTES",Magic Kids Tv | Argentina
 https://cageu.bozztv.com/ssh101/ssh101/magic2019/playlist.m3u8
 #EXTINF:-1 tvg-id="Magic Kids" tvg-name="Magic Kids" tvg-logo="https://i.imgur.com/k8hx0C6.png" group-title="CANALES INDEPENDIENTES",Magic Kids | Argentina
@@ -92,6 +93,10 @@ https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GenTV" tvg-name="GenTV" tvg-logo="https://i.imgur.com/mXpId1b.jpg" group-title="FAMILIARES",GenTV HD | Argentina
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wZUDfAD.png" group-title="24/7",Digimon | 24/7
+http://pe.shortgod.com/godw/tv6.php?id=129
+#EXTINF:-1 tvg-id="Chespirito" tvg-name="Chespirito" tvg-logo="https://i.imgur.com/UswxIKp.png" group-title="24/7",Chespirito | 24/7
+http://pe.shortgod.com/godw/tv6.php?id=355&token=ShortGod&file=.m3u8
 
 #EXTINF:-1,002 Dos Kids HD
 http://45.160.12.253:8000/play/002
