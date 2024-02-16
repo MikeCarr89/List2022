@@ -1,9 +1,29 @@
 # List2024
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1458611383570993154/J-uHPy2t_400x400.jpg" group-title="AMBA", TV PUBLICA - 23.2
-https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8 
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TV_PUBLICA.jpg" group-title="NACIONALES", TV PUBLICA  
+https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TV_PUBLICA.jpg" group-title="NACIONALES", TV PUBLICA  
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
+
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TV_PUBLICA.jpg" group-title="NACIONALES", TV PUBLICA  
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
+
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_9.jpg" group-title="NACIONALES", CANAL 9  35.1
+https://f2play.cdn.rcs.net.ar/mnp/elnueve/output.mpd
+
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_9.jpg" group-title="NACIONALES", CANAL 9  35.1 
+http://lobo-tv.live:8080/Rodolfo01/Rodolfo01/210850
+ 
+#EXTINF:-1 tvg-id="NetTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/NET_TV.jpg" group-title="NACIONALES", NET TV 27.2
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
+
+#EXTINF:-1 tvg-id="NetTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/NET_TV.jpg" group-title="NACIONALES", NET TV 27.2
+https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409840532529029128/jDV8aWP-_400x400.jpg" group-title="NACIONALES", CIUDAD MAGAZINE
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="http://x.playerlatino.live/telefe.png" group-title="AMBA", TELEFE  34.1
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
@@ -17,8 +37,43 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ARGENTINA",America HD
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://yt3.googleusercontent.com/qiB2U_CZaAY_4IdZydkjJwMxnGCpr0v-tLoJmKrjG0KeqA3rLdj5hQ73jnOIjq2kmUcPajCvCTA=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", CANAL 26  24.2
+https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://yt3.googleusercontent.com/qiB2U_CZaAY_4IdZydkjJwMxnGCpr0v-tLoJmKrjG0KeqA3rLdj5hQ73jnOIjq2kmUcPajCvCTA=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", CANAL 26  24.2
+https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
+
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CRONICA_HD.png" group-title="NOTICIAS NACIONALES", CRONICA HD  24.4 
+https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
+
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CRONICA_HD.png" group-title="NOTICIAS NACIONALES", CRONICA HD  24.4 
+https://g4.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
+
+#EXTINF:-1 tvg-id="A24.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/A_24.jpg" group-title="NOTICIAS NACIONALES", A24  36.3
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
+
+#EXTINF:-1 tvg-id="A24.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/A_24.jpg" group-title="NOTICIAS NACIONALES", A24  36.3
+https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+
 #EXTINF:-1 group-title="ARGENTINA",TN Todo Noticias (1080p)
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TODO_NOTICIAS.jpg" group-title="NOTICIAS NACIONALES", TODO NOTICIAS  
+https://ythls.armelin.one/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/LA_NACION_%2B.jpg" group-title="NOTICIAS NACIONALES", LA NACION + 25.3
+https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/LA_NACION_%2B.jpg" group-title="NOTICIAS NACIONALES", LA NACION + 25.3
+https://f2play.cdn.rcs.net.ar/mnp/lnmas/output.mpd
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1569312379703365637/fdzc1Tzz_400x400.jpg" group-title="NOTICIAS NACIONALES", RADIO MITRE
+https://ythls.armelin.one/channel/UCYvINPByAdCcpA0sWrF3I_w.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/900335405580550144/EpLMIlFW_400x400.jpg" group-title="NOTICIAS INTERNACIONAL", DW ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1566826453190205442/EWGUZmdC_400x400.jpg" group-title="NOTICIAS INTERNACIONAL", 24 HORAS ESPAÑA
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wRy3AgzuKPU64ppne21ccwQU_TDcFwke4m3NRFw-1zdPgUjCBjlUoNmQDXJ5QgakwQ0tDKmC=s88-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", RADIO RIVADAVIA AM 630
+https://ythls.armelin.one/channel/UCLAj5TzCrNbqe3LosSKHLcQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiovalleviejo.com.ar/wp-content/uploads/2020/03/logo2020.png" group-title="NORTE", RADIO VALLE VIEJO 104.1 FM CATAMARCA
 https://stmvideo1.livecastv.com/valleviejo/valleviejo/playlist.m3u8
@@ -95,11 +150,16 @@ https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 http://pe.shortgod.com/godw/tv6.php?id=129
 #EXTINF:-1 tvg-id="Chespirito" tvg-name="Chespirito" tvg-logo="https://i.imgur.com/UswxIKp.png" group-title="24/7",Chespirito | 24/7
 http://pe.shortgod.com/godw/tv6.php?id=355&token=ShortGod&file=.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1363736016155258880/LCGweMBi.jpg" group-title="INFANTIL", EL CHAVO
+https://6362ca6f1fc28.streamlock.net/elchavoplus/elchavoplus/playlist.m3u8
 
-#EXTINF:-1,002 Dos Kids HD
-http://45.160.12.253:8000/play/002
-#EXTINF:-1,008 BabyFirst SD
-http://45.160.12.253:8000/play/008
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="CINE", Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HolaTVLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/11-HolaTV.png" audio-track="spa" group-title="Espectaculo", Hola TV
+https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
+
 #EXTINF:-1,005 Discovery Kids HD
 http://45.160.12.253:8000/play/005
 #EXTINF:-1,006 Disney Junior SD
@@ -168,6 +228,8 @@ http://45.160.12.253:8000/play/101
 http://45.160.12.253:8000/play/102
 #EXTINF:-1,107 Cinecanal SD
 http://45.160.12.253:8000/play/107
+#EXTINF:-1,Cinecanal HD
+http://181.205.130.194:4000/play/a0c3/index.m3u8
 #EXTINF:-1,108 TNT Series HD
 http://45.160.12.253:8000/play/108
 #EXTINF:-1,109 TNT HD
@@ -182,6 +244,12 @@ http://45.160.12.253:8000/play/113
 http://45.160.12.253:8000/play/116
 #EXTINF:-1,119 Space HD
 http://45.160.12.253:8000/play/119
+#EXTINF:-1,SPACE HD
+http://138.59.177.34:8000/play/a06x/index.m3u8
+#EXTINF:-1,STAR CHANNEL
+http://138.59.177.34:8000/play/a06d/index.m3u8
+#EXTINF:-1,STAR CHANNEL HD
+http://138.59.177.34:8000/play/a05c/index.m3u8
 #EXTINF:-1,120 MX Family HD
 http://45.160.12.253:8000/play/120
 #EXTINF:-1,121 MX Classic HD
@@ -196,6 +264,29 @@ http://45.160.12.253:8000/play/124
 http://45.160.12.253:8000/play/131
 #EXTINF:-1,132 MTV SD
 http://45.160.12.253:8000/play/132
+ #EXTINF:-1 tvg-id="MTVSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-MTV.png" audio-track="spa" group-title="Musica", MTV
+https://router.cdn.rcs.net.ar/anevia/live/localdisk/MTV/SA_HLS/MTV.m3u8
+#EXTINF:-1,MTV 00s
+http://138.59.177.34:8000/play/a04b/index.m3u8
+#EXTINF:-1,MTV 00s HD
+http://138.59.177.34:8000/play/a05r/index.m3u8
+#EXTINF:-1,MTV 80s
+http://138.59.177.34:8000/play/a02j/index.m3u8
+#EXTINF:-1,MTV Hits
+http://138.59.177.34:8000/play/a02i/index.m3u8
+#EXTINF:-1,MTV SIM HD
+http://138.59.177.34:8000/play/a05q/index.m3u8
+#EXTINF:-1,Classic Rock
+http://181.205.130.194:4000/play/a0bh/index.m3u8
+#EXTINF:-1 tvg-id="HTV.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-HTV.png" audio-track="spa" group-title="Musica", HTV
+https://router.cdn.rcs.net.ar/mnp/htv/output.mpd
+
+#EXTINF:-1 tvg-id="Much.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-MuchMusic.png" audio-track="spa" group-title="Musica", Much Music
+https://router.cdn.rcs.net.ar/mnp/much_music/output.mpd
+#EXTINF:-1,Claro Cinema
+http://138.59.177.34:8000/play/a05b/index.m3u8
+#EXTINF:-1,Claro Musica
+http://138.59.177.34:8000/play/a04a/index.m3u8
 #EXTINF:-1,133 Zona Latina SD
 http://45.160.12.253:8000/play/133
 #EXTINF:-1,137 Old Music HD
@@ -206,10 +297,20 @@ http://45.160.12.253:8000/play/138
 http://45.160.12.253:8000/play/149
 #EXTINF:-1,150 Pasiones HD
 http://45.160.12.253:8000/play/150
+#EXTINF:-1 tvg-logo="https://www.canela.tv/themes/custom/cnm/canela_tv/logo.png" group-title="ENTRETENIMIENTO", Kanal D Drama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
 #EXTINF:-1,151 Las Estrellas HD
 http://45.160.12.253:8000/play/151
 #EXTINF:-1,153 TVE SD
 http://45.160.12.253:8000/play/153
+#EXTINF:-1,STAR TVE HD
+http://181.205.130.194:4000/play/a0c4/index.m3u8
+#EXTINF:-1,Antena 3
+http://138.59.177.34:8000/play/a00s/index.m3u8
+#EXTINF:-1,Antena 7- RD
+http://138.59.177.34:8000/play/a01x/index.m3u8
+#EXTINF:-1,Atres Series
+http://138.59.177.34:8000/play/a00y/index.m3u8
 #EXTINF:-1,171 Discovery H&H HD
 http://45.160.12.253:8000/play/171
 #EXTINF:-1,172 TLC SD
@@ -242,5 +343,84 @@ http://45.160.12.253:8000/play/233
 http://45.160.12.253:8000/play/234
 #EXTINF:-1,235 TNT SPORTS 3
 http://45.160.12.253:8000/play/235
+#EXTINF:-1,TBS
+http://138.59.177.34:8000/play/a02e/index.m3u8
+#EXTINF:-1,Latino | Comedy Central
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/23
+#EXTINF:-1,Latino | De Pelicula
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/85
+#EXTINF:-1,Latino | Distrito Comedia
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/38
+#EXTINF:-1,Latino | Golden Edge
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/84
+#EXTINF:-1,Latino | Golden Plus
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/75
+#EXTINF:-1,Latino | Golden Premier
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/83
+#EXTINF:-1,Latino | Starz Encore
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/651
+#EXTINF:-1,Latino | Starz Kids & Family
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1047
+#EXTINF:-1,Latino | Tooncast
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/55
+#EXTINF:-1,Latino | TruTV
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/22
+#EXTINF:-1,Latino | Unicable
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/24
+#EXTINF:-1,Latino | Unimas
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/286
+#EXTINF:-1,Latino | VH1
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/625
+#EXTINF:-1,Latino | VH1 Classics
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/624
+#EXTINF:-1,Latino | Starz Edge
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1649
+#EXTINF:-1,Latino | DAZN F1
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1650
 
-
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Cuentos_de_Terramar-162148520-large.jpg",Cuentos de Terramar
+https://archive.org/download/peliculas-studio-ghibli-latino/Cuentos%20de%20Terramar.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Earwig_y_la_bruja-802898174-large.jpg",Earwig y la bruja
+https://archive.org/download/peliculas-studio-ghibli-latino/Earwig%20y%20la%20bruja.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_castillo_en_el_cielo-382969111-large.jpg",El castillo en el cielo
+https://archive.org/download/peliculas-studio-ghibli-latino/El%20castillo%20en%20el%20cielo.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_cuento_de_la_princesa_Kaguya-619798113-large.jpg",El cuento de la princesa Kaguya
+https://archive.org/download/peliculas-studio-ghibli-latino/El%20cuento%20de%20la%20princesa%20Kaguya.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_incre_ble_castillo_vagabundo-661679030-large.jpg",El increible castillo vagabundo
+https://archive.org/download/peliculas-studio-ghibli-latino/El%20increible%20castillo%20vagabundo.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_mundo_secreto_de_Arrietty-356171620-large.jpg",El mundo secreto de Arrietty
+https://archive.org/download/peliculas-studio-ghibli-latino/El%20mundo%20secreto%20de%20Arrietty.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_recuerdo_de_Marnie-366882456-large.jpg",El recuerdo de Marnie
+https://archive.org/download/peliculas-studio-ghibli-latino/El%20recuerdo%20de%20Marnie.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Haru_en_el_reino_de_los_gatos-963174131-large.jpg",El regreso del gato
+https://archive.org/download/peliculas-studio-ghibli-latino/El%20regreso%20del%20gato.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_viaje_de_Chihiro-405533198-large.jpg",El viaje de Chihiro
+https://archive.org/download/peliculas-studio-ghibli-latino/El%20viaje%20de%20Chihiro.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Kiki_Entregas_a_domicilio-859043662-large.jpg",Kiki - Entregas a domicilio
+https://archive.org/download/peliculas-studio-ghibli-latino/Kiki%20-%20Entregas%20a%20domicilio.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/La_colina_de_las_amapolas-708774988-large.jpg",La colina de las Amapolas
+https://archive.org/download/peliculas-studio-ghibli-latino/La%20colina%20de%20las%20Amapolas.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/mononoke_hime-598406013-large.jpg",La princesa Mononoke
+https://archive.org/download/peliculas-studio-ghibli-latino/La%20princesa%20Mononoke.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/La_tortuga_roja-279094121-large.jpg",La tortuga roja
+https://archive.org/download/peliculas-studio-ghibli-latino/La%20tortuga%20roja.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/La_tumba_de_las_luci_rnagas-976066027-large.jpg",La tumba de las Luciernagas
+https://archive.org/download/peliculas-studio-ghibli-latino/La%20tumba%20de%20las%20Luciernagas.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Mi_vecino_Totoro-520161596-large.jpg",Mi vecino Totoro
+https://archive.org/download/peliculas-studio-ghibli-latino/Mi%20vecino%20Totoro.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Mis_vecinos_los_Yamada-102086202-large.jpg",Mis vecinos los Yamada
+https://archive.org/download/peliculas-studio-ghibli-latino/Mis%20vecinos%20los%20Yamada.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Pompoko-586957064-large.jpg",Pompoko
+https://archive.org/download/peliculas-studio-ghibli-latino/Pompoko.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Ponyo_en_el_acantilado-453187942-large.jpg",Ponyo en el acantilado
+https://archive.org/download/peliculas-studio-ghibli-latino/Ponyo%20en%20el%20acantilado.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Porco_Rosso-732590592-large.jpg",Porco Rosso
+https://archive.org/download/peliculas-studio-ghibli-latino/Porco%20Rosso.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Puedo_escuchar_el_mar_TV-208114751-large.jpg",Puedo oir el mar
+https://archive.org/download/peliculas-studio-ghibli-latino/Puedo%20oir%20el%20mar.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Recuerdos_del_ayer-615376082-large.jpg",Recuerdos del Ayer
+https://archive.org/download/peliculas-studio-ghibli-latino/Recuerdos%20del%20Ayer.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Se_levanta_el_viento-819618076-large.jpg",Se levanta el viento
+https://archive.org/download/peliculas-studio-ghibli-latino/Se%20levanta%20el%20viento.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Susurros_del_coraz_n-911063934-large.jpg",Susurros del Corazon
+https://archive.org/download/peliculas-studio-ghibli-latino/Susurros%20del%20Corazon.mp4
