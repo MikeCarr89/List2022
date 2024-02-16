@@ -4,8 +4,6 @@
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1458611383570993154/J-uHPy2t_400x400.jpg" group-title="AMBA", TV PUBLICA - 23.2
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8 
 
-#EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="AMBA", CANAL 9  35.1
-https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="http://x.playerlatino.live/telefe.png" group-title="AMBA", TELEFE  34.1
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
@@ -16,34 +14,11 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1344843564535132160/xT96d8Zv_400x400.jpg" group-title="AMBA", CANAL 13  33.1
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="America 24" tvg-name="America 24" tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-24_m.png" group-title="FAMILIARES",America 24 | Argentina
-https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 #EXTINF:-1 group-title="ARGENTINA",America HD
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-#EXTINF:-1 tvg-id="Argentinisima Satelital" tvg-name="Argentinisima Satelital" tvg-logo="https://i.imgur.com/humb4J5.png" group-title="FAMILIARES",Argentinisima Satelital | Argentina
-https://stream1.sersat.com/hls/argentinisima.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6027/240/default.jpg" group-title="NOTICIAS",RT Espanol
-https://rt-esp.gcdn.co/live/rtesp/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m504ZL8.png" group-title="ARGENTINA", Canal 26 | HD
-http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
-
-#EXTINF:-1 tvg-id="IPNoticias.ar" tvg-logo="https://i.imgur.com/dbu9nx4.png" group-title="News",IP Noticias (1080p)
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
-
-#EXTINF:-1 tvg-id="492" tvg-name="TV Publica" tvg-logo="https://cdn.m3u.cl/logo/492_TV_Publica.png", TV Publica | AR
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="775" tvg-name="ZN Noticias" tvg-logo="https://cdn.m3u.cl/logo/775_ZN_Noticias.png", ZN Noticias | AR
-https://5975e06a1f292.streamlock.net:4443/znoticias/znoticias/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1477468589187817478/5pe9Rej7_400x400.jpg" group-title="NOTICIAS", RADIO MITRE
-https://g1.proy-slo.transport.edge-access.net/a10/ngrp:MITREHD-10002_all/Playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA",Ciudad Magazine (1080p) [Geo-blocked]
-https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1 group-title="ARGENTINA",TN Todo Noticias (1080p)
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gbANSM7ZuvPP3MXVX3w-7W4MqVT09hoGmw&usqp=CAU" group-title="AMBA", LA 100
-https://g3.vxral-slo.transport.edge-access.net/a11/ngrp:cienradioshd-10002_all/cienradioshd-10002_540p.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiovalleviejo.com.ar/wp-content/uploads/2020/03/logo2020.png" group-title="NORTE", RADIO VALLE VIEJO 104.1 FM CATAMARCA
 https://stmvideo1.livecastv.com/valleviejo/valleviejo/playlist.m3u8
