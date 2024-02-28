@@ -2,9 +2,6 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TV_PUBLICA.jpg" group-title="NACIONALES", TV PUBLICA  
-https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
-
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TV_PUBLICA.jpg" group-title="NACIONALES", TV PUBLICA  
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TV_PUBLICA.jpg" group-title="NACIONALES", TV PUBLICA  
@@ -78,30 +75,23 @@ https://ythls.armelin.one/channel/UCLAj5TzCrNbqe3LosSKHLcQ.m3u8
 #EXTINF:-1 tvg-logo="https://radiovalleviejo.com.ar/wp-content/uploads/2020/03/logo2020.png" group-title="NORTE", RADIO VALLE VIEJO 104.1 FM CATAMARCA
 https://stmvideo1.livecastv.com/valleviejo/valleviejo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Magic Club" tvg-name="Magic Club HD" tvg-logo="https://i.imgur.com/Q1hmSmE.png" group-title="JOVENES Y ADULTOS",Magic Club HD
-https://live.autistici.org/hls/magicclub_src.m3u8
-#EXTINF:-1 tvg-id="Adult Swim LA" tvg-name="Adult Swim LA" tvg-logo="https://i.imgur.com/gF5cqMl.png" group-title="JOVENES Y ADULTOS",Adult Swim LA
-http://181.78.8.90:16123/play/ch75
-#EXTINF:-1 tvg-id="Teletoonizaki" tvg-name="Teletoonizaki HD" tvg-logo="https://i.imgur.com/KUeV2YT.png" group-title="JOVENES Y ADULTOS",Teletoonizaki HD
-https://archive.org/download/la-leyenda-de-klaus-en-teletoonizaki/La%20leyenda%20de%20Klaus%20en%20Teletoonizaki.ia.mp4
+#EXTINF:-1 tvg-logo="https://radiovalleviejo.com.ar/wp-content/uploads/2020/03/logo2020.png" group-title="CATAMARCA", RADIO VALLE VIEJO 104.1 FM CATAMARCA
+https://stmvideo1.livecastv.com/valleviejo/valleviejo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1526667146012594176/C41mVhO6_400x400.jpg" group-title="CATAMARCA", INFORAMA RADIO CATAMARCA
+https://streamlov.alsolnet.com/inforamaradio/live/playlist.m3u8
+
+
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.imgur.com/z780GyN.png" group-title="JOVENES Y ADULTOS",AnimeStation
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.imgur.com/z780GyN.png" group-title="JOVENES Y ADULTOS",AnimeStation (Opcion 2)
 https://rpn3.bozztv.com/ssh101/ssh101/livestreamtvla/playlist.m3u8
-#EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.imgur.com/z780GyN.png" group-title="JOVENES Y ADULTOS",AnimeStation (Opcion 3)
-https://ssh101.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
-#EXTINF:-1 tvg-name="Anime Zone TV" tvg-id="" tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="JOVENES Y ADULTOS",Anime Zone TV
-http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png", Locomotion
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png", Locomotion (Opt 2)
 http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 tvg-name="aztv" tvg-id="aztv" tvg-logo="http://locomotiontv.com/locomotion/aztv_logo.png", aztv
-http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.imgur.com/oNmtnby.png" group-title="Familiares",ACS NETWORK TV
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
-#EXTINF:-1 tvg-id="Conectate TV" tvg-name="Conectate TV" tvg-logo="https://i.imgur.com/HK1NEsV.png" group-title="Familiares",Conectate TV
-https://ssh101.bozztv.com/ssh101/conectatetvpr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B7odp7O.png" group-title="Familiares",Retro Magico
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
 #EXTINF:-1 tvg-id="Big Channel" tvg-name="Big Channel" tvg-logo="https://i.imgur.com/WUsb3d1.png" group-title="Familiares",Big Channel
@@ -116,38 +106,20 @@ https://cloudvideo.servers10.com:8081/8138/index.m3u8
 https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
 #EXTINF:-1 tvg-id="Latino Kids Tv" tvg-name="Latino Kids Tv" tvg-logo="https://i.imgur.com/BArIlh7.jpg" group-title="CANALES INDEPENDIENTES",Latino Kids TV | Uruguay
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CMMEIq3.png" group-title="Familiares",Zaz TV
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2701&live=1&avod=1&cb=[CACHEBUSTER]&app_bundle=[APP_BUNDLE]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_version=[APP_VERSION]&app_category=[APP_CATEGORY]&app_store_url=[APP_STORE_URL]&hls_marker=1&pod_duration=[POD_DURATION]&ua=[%UA%]&ip=[IP]&min_ad_duration=6&max_ad_duration=120?is_lat=[LIMITED_AD_TRACKING]&player_width=[WIDTH]&player_height=[HEIGHT]&ua=[%UA%]&ip=[IP]&cb=[CACHEBUSTER]&hls_marker=1&app_version=[APP_VERSION]&app_store_url=[APP_STORE_URL]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_category=[APP_CATEGORY]&did=[DID]&app_bundle=[APP_BUNDLE]&network_id=2701&live=1&avod=1&stream_url=https%3A%2F%2Fb81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com%2Fv1%2Fchannel%2FZAZ_Linear%2Findex-zaz-linear.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CMMEIq3.png" group-title="Familiares",Zaz TV (opcion 2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CMMEIq3.png" group-title="Familiares",Zaz TV 
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PCtEVPc.jpg" group-title="Familiares",Teleclasica
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XVb8GeN.png" group-title="Familiares",TV Retro Palmares
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
-#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7.png" group-title="MEXICO",7.1 Azteca 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-
-#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7.png" group-title="MEXICO",7.1 Azteca 7 op
-https://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
-
-#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7.png" group-title="MEXICO",7.1 Azteca 7 op
-http://pe.shortgod.com/zaapw21e/tv1.php?id=5.m3u8
-
-#EXTINF:-1 tvg-id="Zaz TV" tvg-name="Zaz TV" tvg-logo="https://i.imgur.com/CMMEIq3.png" group-title="INFANTILES",Zaz TV | Mexico
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2701&live=1&avod=1&cb=[CACHEBUSTER]&app_bundle=[APP_BUNDLE]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_version=[APP_VERSION]&app_category=[APP_CATEGORY]&app_store_url=[APP_STORE_URL]&hls_marker=1&pod_duration=[POD_DURATION]&ua=[%UA%]&ip=[IP]&min_ad_duration=6&max_ad_duration=120?is_lat=[LIMITED_AD_TRACKING]&player_width=[WIDTH]&player_height=[HEIGHT]&ua=[%UA%]&ip=[IP]&cb=[CACHEBUSTER]&hls_marker=1&app_version=[APP_VERSION]&app_store_url=[APP_STORE_URL]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_category=[APP_CATEGORY]&did=[DID]&app_bundle=[APP_BUNDLE]&network_id=2701&live=1&avod=1&stream_url=https%3A%2F%2Fb81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com%2Fv1%2Fchannel%2FZAZ_Linear%2Findex-zaz-linear.m3u8
 
 #EXTINF:-1 tvg-id="Adult Swim LA" tvg-name="Adult Swim LA" tvg-logo="https://i.imgur.com/gF5cqMl.png" group-title="JOVENES Y ADULTOS",Adult Swim LA | ND
 http://181.78.8.90:16123/play/ch75
 
-#EXTINF:-1 tvg-id="AZTV" tvg-name="AZTV" tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="JOVENES Y ADULTOS",Anime Zone TV | Republica Dominicana
-http://animezonetv.net/hls/stream.m3u8
-#EXTINF:-1 tvg-name="AnimeStation" tvg-id="AnimeStation" tvg-logo="https://i.imgur.com/z780GyN.png" group-title="JOVENES Y ADULTOS",AnimeStation | Argentina
-https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="GenTV" tvg-name="GenTV" tvg-logo="https://i.imgur.com/mXpId1b.jpg" group-title="FAMILIARES",GenTV HD | Argentina
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wZUDfAD.png" group-title="24/7",Digimon | 24/7
-http://pe.shortgod.com/godw/tv6.php?id=129
+http://pe.shortgod.com/aascawq/tv6.php?id=129
 #EXTINF:-1 tvg-id="Chespirito" tvg-name="Chespirito" tvg-logo="https://i.imgur.com/UswxIKp.png" group-title="24/7",Chespirito | 24/7
 http://pe.shortgod.com/godw/tv6.php?id=355&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1363736016155258880/LCGweMBi.jpg" group-title="INFANTIL", EL CHAVO
@@ -159,6 +131,8 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HolaTVLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/11-HolaTV.png" audio-track="spa" group-title="Espectaculo", Hola TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rbInBME.png" group-title="LATINO",Azteca 7 HD
+https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream/609ad46a7a441137107d7a81/publish/media_1500.m3u8?aid=5fea09a071a9945deebf5f7c&pid=mz2kolSNR1nG6e4kZ8TkblHgPrL6b96N&sid=uUA2BfAtCxRwaNMPqy5eyKEOyPMuccxW&uid=zNI3pkvVCsT2dspkoAjLNGO31OMZxWbr&es=tvazteca-live-cdn-mdstrm-com.akamaized.net&ote=1703947467082&ot=yEqCQ8lT_iw3Yf-7CajfyA&proto=https&pz=us
 
 #EXTINF:-1,005 Discovery Kids HD
 http://45.160.12.253:8000/play/005
@@ -377,50 +351,3 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/624
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1649
 #EXTINF:-1,Latino | DAZN F1
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1650
-
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Cuentos_de_Terramar-162148520-large.jpg",Cuentos de Terramar
-https://archive.org/download/peliculas-studio-ghibli-latino/Cuentos%20de%20Terramar.mp4
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Earwig_y_la_bruja-802898174-large.jpg",Earwig y la bruja
-https://archive.org/download/peliculas-studio-ghibli-latino/Earwig%20y%20la%20bruja.mp4
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_castillo_en_el_cielo-382969111-large.jpg",El castillo en el cielo
-https://archive.org/download/peliculas-studio-ghibli-latino/El%20castillo%20en%20el%20cielo.mp4
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_cuento_de_la_princesa_Kaguya-619798113-large.jpg",El cuento de la princesa Kaguya
-https://archive.org/download/peliculas-studio-ghibli-latino/El%20cuento%20de%20la%20princesa%20Kaguya.mp4
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_incre_ble_castillo_vagabundo-661679030-large.jpg",El increible castillo vagabundo
-https://archive.org/download/peliculas-studio-ghibli-latino/El%20increible%20castillo%20vagabundo.mp4
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_mundo_secreto_de_Arrietty-356171620-large.jpg",El mundo secreto de Arrietty
-https://archive.org/download/peliculas-studio-ghibli-latino/El%20mundo%20secreto%20de%20Arrietty.mp4
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_recuerdo_de_Marnie-366882456-large.jpg",El recuerdo de Marnie
-https://archive.org/download/peliculas-studio-ghibli-latino/El%20recuerdo%20de%20Marnie.mp4
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Haru_en_el_reino_de_los_gatos-963174131-large.jpg",El regreso del gato
-https://archive.org/download/peliculas-studio-ghibli-latino/El%20regreso%20del%20gato.mp4
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_viaje_de_Chihiro-405533198-large.jpg",El viaje de Chihiro
-https://archive.org/download/peliculas-studio-ghibli-latino/El%20viaje%20de%20Chihiro.mp4
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Kiki_Entregas_a_domicilio-859043662-large.jpg",Kiki - Entregas a domicilio
-https://archive.org/download/peliculas-studio-ghibli-latino/Kiki%20-%20Entregas%20a%20domicilio.mp4
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/La_colina_de_las_amapolas-708774988-large.jpg",La colina de las Amapolas
-https://archive.org/download/peliculas-studio-ghibli-latino/La%20colina%20de%20las%20Amapolas.mp4
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/mononoke_hime-598406013-large.jpg",La princesa Mononoke
-https://archive.org/download/peliculas-studio-ghibli-latino/La%20princesa%20Mononoke.mp4
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/La_tortuga_roja-279094121-large.jpg",La tortuga roja
-https://archive.org/download/peliculas-studio-ghibli-latino/La%20tortuga%20roja.mp4
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/La_tumba_de_las_luci_rnagas-976066027-large.jpg",La tumba de las Luciernagas
-https://archive.org/download/peliculas-studio-ghibli-latino/La%20tumba%20de%20las%20Luciernagas.mp4
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Mi_vecino_Totoro-520161596-large.jpg",Mi vecino Totoro
-https://archive.org/download/peliculas-studio-ghibli-latino/Mi%20vecino%20Totoro.mp4
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Mis_vecinos_los_Yamada-102086202-large.jpg",Mis vecinos los Yamada
-https://archive.org/download/peliculas-studio-ghibli-latino/Mis%20vecinos%20los%20Yamada.mp4
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Pompoko-586957064-large.jpg",Pompoko
-https://archive.org/download/peliculas-studio-ghibli-latino/Pompoko.mp4
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Ponyo_en_el_acantilado-453187942-large.jpg",Ponyo en el acantilado
-https://archive.org/download/peliculas-studio-ghibli-latino/Ponyo%20en%20el%20acantilado.mp4
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Porco_Rosso-732590592-large.jpg",Porco Rosso
-https://archive.org/download/peliculas-studio-ghibli-latino/Porco%20Rosso.mp4
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Puedo_escuchar_el_mar_TV-208114751-large.jpg",Puedo oir el mar
-https://archive.org/download/peliculas-studio-ghibli-latino/Puedo%20oir%20el%20mar.mp4
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Recuerdos_del_ayer-615376082-large.jpg",Recuerdos del Ayer
-https://archive.org/download/peliculas-studio-ghibli-latino/Recuerdos%20del%20Ayer.mp4
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Se_levanta_el_viento-819618076-large.jpg",Se levanta el viento
-https://archive.org/download/peliculas-studio-ghibli-latino/Se%20levanta%20el%20viento.mp4
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Susurros_del_coraz_n-911063934-large.jpg",Susurros del Corazon
-https://archive.org/download/peliculas-studio-ghibli-latino/Susurros%20del%20Corazon.mp4
