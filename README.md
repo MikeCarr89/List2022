@@ -119,18 +119,28 @@ http://181.78.8.90:16123/play/ch75
 #EXTINF:-1 tvg-id="GenTV" tvg-name="GenTV" tvg-logo="https://i.imgur.com/mXpId1b.jpg" group-title="FAMILIARES",GenTV HD | Argentina
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wZUDfAD.png" group-title="24/7",Digimon | 24/7
-http://pe.shortgod.com/aascawq/tv6.php?id=129
+http://pe.shortgod.com/volve24/tv6.php?id=129
 #EXTINF:-1 tvg-id="Chespirito" tvg-name="Chespirito" tvg-logo="https://i.imgur.com/UswxIKp.png" group-title="24/7",Chespirito | 24/7
 http://pe.shortgod.com/godw/tv6.php?id=355&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1363736016155258880/LCGweMBi.jpg" group-title="INFANTIL", EL CHAVO
 https://6362ca6f1fc28.streamlock.net/elchavoplus/elchavoplus/playlist.m3u8 
-#EXTINF:-1 http://tv.teleclub.xyz/envivo/24_7/CHAVO_8/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4vGK5VS.png" group-title="24_7", CHESPIRITO http://tv.teleclub.xyz/envivo/24_7/CHESPIRITO/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/izriGGO.png" group-title="24_7", El Chapulin Colorado http://tv.teleclub.xyz/envivo/24_7/CHAPULIN_COLORADO/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i2xKu4B.png" group-title="24_7", Digimon http://tv.teleclub.xyz/envivo/24_7/DIGIMON/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CWFgnoI.png" group-title="24_7", Los Simpsons http://tv.teleclub.xyz/envivo/24_7/LOS_SIMPSONS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="CINE", Golden Plus
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1,24-7 | El Chavo del 8 (Op2)
+http://pe.shortgod.com/volve24/tv9.php?id=145223
+
+#EXTINF:-1,Los Simpson (op2)
+http://pe.shortgod.com/volve24/tv9.php?id=607
+#EXTINF:-1,LOS SIMPSONS OP1
+http://pe.shortgod.com/volve24/tv9.php?id=280
+#EXTINF:-1,EL CHAPULIN COLORADO 24/7
+http://pe.shortgod.com/volve24/tv9.php?id=31996
+#EXTINF:-1,DTM Pokemon
+#EXTINF:-1  group-title="", Bit Me
+http://pe.shortgod.com/volve24/tv6.php?id=131
+http://pe.shortgod.com/volve24/tv9.php?id=145223
+
+#EXTINF:-1  group-title="", Don Gato y su pandilla 24\/7
+http://pe.shortgod.com/volve24/tv6.php?id=71
+
 
 #EXTINF:-1 tvg-id="HolaTVLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/11-HolaTV.png" audio-track="spa" group-title="Espectaculo", Hola TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
