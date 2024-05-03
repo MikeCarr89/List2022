@@ -120,19 +120,16 @@ http://181.78.8.90:16123/play/ch75
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wZUDfAD.png" group-title="24/7",Digimon | 24/7
 http://pe.shortgod.com/volve24/tv6.php?id=129
+#EXTINF:-1 tvg-id="El Chavo" tvg-name="El Chavo" tvg-logo="https://i.imgur.com/mMF8pX1.png" group-title="24/7",El Chavo del 8 | 24/7
+http://pe.shortgod.com/awester/tv6.php?id=150
+#EXTINF:-1 tvg-id="El Chavo" tvg-name="El Chavo" tvg-logo="https://i.imgur.com/inXbFqE.png" group-title="24/7",El Chavo Animado | 24/7
+http://pe.shortgod.com/awester/tv10.php?id=12023
+#EXTINF:-1 tvg-id="El Chapulin" tvg-name="El Chapulin" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/760449bd-621b-4777-b7bc-9fde4d1f27cb-profile_image-70x70.png" group-title="24/7",El Chapulin Colorado | 24/7
+http://pe.shortgod.com/awester/tv6.php?id=113&token=ShortGod&file=.m3u8
+#EXTINF:-1 tvg-id="El Chapulin" tvg-name="El Chapulin" tvg-logo="https://i.imgur.com/B6TDkOb.png" group-title="24/7",El Chapulin Colorado Animado | 24/7
+http://pe.shortgod.com/awester/tv6.php?id=113
 #EXTINF:-1 tvg-id="Chespirito" tvg-name="Chespirito" tvg-logo="https://i.imgur.com/UswxIKp.png" group-title="24/7",Chespirito | 24/7
-http://pe.shortgod.com/godw/tv6.php?id=355&token=ShortGod&file=.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1363736016155258880/LCGweMBi.jpg" group-title="INFANTIL", EL CHAVO
-http://pe.shortgod.com/volve24/tv6.php?id=150
-#EXTINF:-1,24-7 | El Chavo del 8 (Op2)
-http://pe.shortgod.com/volve24/tv6.php?id=150
-
-#EXTINF:-1,Los Simpson (op2)
-http://pe.shortgod.com/volve24/tv9.php?id=607
-#EXTINF:-1,LOS SIMPSONS OP1
-http://pe.shortgod.com/volve24/tv9.php?id=280
-#EXTINF:-1,EL CHAPULIN COLORADO 24/7
-http://pe.shortgod.com/volve24/tv9.php?id=31996
+http://pe.shortgod.com/awester/tv6.php?id=355&token=ShortGod&file=.m3u8
 
 #EXTINF:-1 tvg-id="HolaTVLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/11-HolaTV.png" audio-track="spa" group-title="Espectaculo", Hola TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
