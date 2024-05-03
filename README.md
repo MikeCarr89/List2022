@@ -96,8 +96,8 @@ https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
 #EXTINF:-1 tvg-id="Big Channel" tvg-name="Big Channel" tvg-logo="https://i.imgur.com/WUsb3d1.png" group-title="Familiares",Big Channel
 https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
-#EXTINF:-1 tvg-id="Magic Kids Tv" tvg-name="Magic Kids Tv" tvg-logo="https://i.imgur.com/Uu8dciU.png" group-title="CANALES INDEPENDIENTES",Magic Kids Tv | Argentina
-https://cageu.bozztv.com/ssh101/ssh101/magic2019/playlist.m3u8
+#EXTINF:-1 tvg-id="Magic Kids Tv" tvg-name="Magic Kids Tv" tvg-logo="https://i.imgur.com/aSJxuYm.png" group-title="CANALES INDEPENDIENTES",Magic Kids Tv | Argentina
+https://ssh101.bozztv.com/ssh101/magic2019/playlist.m3u8
 #EXTINF:-1 tvg-id="Magic Kids" tvg-name="Magic Kids" tvg-logo="https://i.imgur.com/k8hx0C6.png" group-title="CANALES INDEPENDIENTES",Magic Kids | Argentina
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="Dreiko TV" tvg-name="Dreiko TV" tvg-logo="https://i.imgur.com/eaqJWmD.png" group-title="CANALES INDEPENDIENTES",Dreiko TV | Panamá
@@ -105,7 +105,7 @@ https://cloudvideo.servers10.com:8081/8138/index.m3u8
 #EXTINF:-1 tvg-id="Gogoplay TV" tvg-name="Gogoplay TV" tvg-logo="https://i.imgur.com/tCwRSRr.png" group-title="CANALES INDEPENDIENTES",Gogoplay TV | Bolivia
 https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
 #EXTINF:-1 tvg-id="Latino Kids Tv" tvg-name="Latino Kids Tv" tvg-logo="https://i.imgur.com/BArIlh7.jpg" group-title="CANALES INDEPENDIENTES",Latino Kids TV | Uruguay
-https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CMMEIq3.png" group-title="Familiares",Zaz TV 
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PCtEVPc.jpg" group-title="Familiares",Teleclasica
