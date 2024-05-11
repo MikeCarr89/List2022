@@ -1,18 +1,7 @@
 # List2024
 #EXTM3U 
-
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TV_PUBLICA.jpg" group-title="NACIONALES", TV PUBLICA  
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
-
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TV_PUBLICA.jpg" group-title="NACIONALES", TV PUBLICA  
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
-
-#EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_9.jpg" group-title="NACIONALES", CANAL 9  35.1
-https://f2play.cdn.rcs.net.ar/mnp/elnueve/output.mpd
-
-#EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_9.jpg" group-title="NACIONALES", CANAL 9  35.1 
-http://lobo-tv.live:8080/Rodolfo01/Rodolfo01/210850
- 
+ #EXTINF:0 tvg-id="Volver" tvg-logo="https://cdn.mitvstatic.com/channels/ar_volver_m.png" group-title="SHORTGOD",Volver | Argentina
+http://pe.shortgod.com/awester/tv8.php?id=46751&f=.m3u8
 #EXTINF:-1 tvg-id="NetTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/NET_TV.jpg" group-title="NACIONALES", NET TV 27.2
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 
@@ -115,211 +104,235 @@ https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Adult Swim LA" tvg-name="Adult Swim LA" tvg-logo="https://i.imgur.com/gF5cqMl.png" group-title="JOVENES Y ADULTOS",Adult Swim LA | ND
 http://181.78.8.90:16123/play/ch75
-
-#EXTINF:-1 tvg-id="GenTV" tvg-name="GenTV" tvg-logo="https://i.imgur.com/mXpId1b.jpg" group-title="FAMILIARES",GenTV HD | Argentina
-https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wZUDfAD.png" group-title="24/7",Digimon | 24/7
-http://pe.shortgod.com/volve24/tv6.php?id=129
-#EXTINF:-1 tvg-id="El Chavo" tvg-name="El Chavo" tvg-logo="https://i.imgur.com/mMF8pX1.png" group-title="24/7",El Chavo del 8 | 24/7
-http://pe.shortgod.com/awester/tv6.php?id=150
-#EXTINF:-1 tvg-id="El Chavo" tvg-name="El Chavo" tvg-logo="https://i.imgur.com/inXbFqE.png" group-title="24/7",El Chavo Animado | 24/7
-http://pe.shortgod.com/awester/tv10.php?id=12023
-#EXTINF:-1 tvg-id="El Chapulin" tvg-name="El Chapulin" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/760449bd-621b-4777-b7bc-9fde4d1f27cb-profile_image-70x70.png" group-title="24/7",El Chapulin Colorado | 24/7
-http://pe.shortgod.com/awester/tv6.php?id=113&token=ShortGod&file=.m3u8
-#EXTINF:-1 tvg-id="El Chapulin" tvg-name="El Chapulin" tvg-logo="https://i.imgur.com/B6TDkOb.png" group-title="24/7",El Chapulin Colorado Animado | 24/7
-http://pe.shortgod.com/awester/tv6.php?id=113
-#EXTINF:-1 tvg-id="Chespirito" tvg-name="Chespirito" tvg-logo="https://i.imgur.com/UswxIKp.png" group-title="24/7",Chespirito | 24/7
-http://pe.shortgod.com/awester/tv6.php?id=355&token=ShortGod&file=.m3u8
-
-#EXTINF:-1 tvg-id="HolaTVLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/11-HolaTV.png" audio-track="spa" group-title="Espectaculo", Hola TV
-https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rbInBME.png" group-title="LATINO",Azteca 7 HD
-https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream/609ad46a7a441137107d7a81/publish/media_1500.m3u8?aid=5fea09a071a9945deebf5f7c&pid=mz2kolSNR1nG6e4kZ8TkblHgPrL6b96N&sid=uUA2BfAtCxRwaNMPqy5eyKEOyPMuccxW&uid=zNI3pkvVCsT2dspkoAjLNGO31OMZxWbr&es=tvazteca-live-cdn-mdstrm-com.akamaized.net&ote=1703947467082&ot=yEqCQ8lT_iw3Yf-7CajfyA&proto=https&pz=us
-
-#EXTINF:-1,005 Discovery Kids HD
-http://45.160.12.253:8000/play/005
-#EXTINF:-1,006 Disney Junior SD
-http://45.160.12.253:8000/play/006
-#EXTINF:-1,009 Cartoon Network HD
-http://45.160.12.253:8000/play/009
-#EXTINF:-1,010 Disney HD
-http://45.160.12.253:8000/play/010
-#EXTINF:-1,013 Animation
-http://45.160.12.253:8000/play/013
-#EXTINF:-1,014 Nick HD
-http://45.160.12.253:8000/play/014
-#EXTINF:-1,015 FMH KIDS
-http://45.160.12.253:8000/play/015
-#EXTINF:-1,016 NTV 
-http://45.160.12.253:8000/play/016
-#EXTINF:-1,017 HBO
-http://45.160.12.253:8000/play/017
-#EXTINF:-1,018 HBO Family HD
-http://45.160.12.253:8000/play/018
-#EXTINF:-1,019 HBO Plus sd
-http://45.160.12.253:8000/play/019
-#EXTINF:-1,020 HBO Xtreme HD
-http://45.160.12.253:8000/play/020
-#EXTINF:-1,021 HBO 2 SD
-http://45.160.12.253:8000/play/021
-#EXTINF:-1,024 Discovery Channel HD
-http://45.160.12.253:8000/play/024
-#EXTINF:-1,025 Animal Planet HD
-http://45.160.12.253:8000/play/025
-#EXTINF:-1,027 Nat Geo HD
-http://45.160.12.253:8000/play/027
-#EXTINF:-1,032 History Channel HD
-http://45.160.12.253:8000/play/032
-#EXTINF:-1,033 History 2 HD
-http://45.160.12.253:8000/play/033
-#EXTINF:-1,067 Canal 13 HD
-http://45.160.12.253:8000/play/067
-#EXTINF:-1,079 ID HD
-http://45.160.12.253:8000/play/079
-#EXTINF:-1,081 Warner Channel HD
-http://45.160.12.253:8000/play/081
-#EXTINF:-1,083 STAR CHANNEL HD
-http://45.160.12.253:8000/play/083
-#EXTINF:-1,085 Sony HD
-http://45.160.12.253:8000/play/085
-#EXTINF:-1,087 AXN HD
-http://45.160.12.253:8000/play/087
-#EXTINF:-1,088 Universal
-http://45.160.12.253:8000/play/088
-#EXTINF:-1,090 FMH Family
-http://45.160.12.253:8000/play/090
-#EXTINF:-1,093 FX HD
-http://45.160.12.253:8000/play/093
-#EXTINF:-1,095 Rewind
-http://45.160.12.253:8000/play/095
-#EXTINF:-1,098 Studio Universal HD
-http://45.160.12.253:8000/play/098
-#EXTINF:-1,099 Paramount HD
-http://45.160.12.253:8000/play/099
-#EXTINF:-1,100 Lifetime SD
-http://45.160.12.253:8000/play/100
-#EXTINF:-1,101 SyFy SD
-http://45.160.12.253:8000/play/101
-#EXTINF:-1,102 A&E HD
-http://45.160.12.253:8000/play/102
-#EXTINF:-1,107 Cinecanal SD
-http://45.160.12.253:8000/play/107
 #EXTINF:-1,Cinecanal HD
 http://181.205.130.194:4000/play/a0c3/index.m3u8
-#EXTINF:-1,108 TNT Series HD
-http://45.160.12.253:8000/play/108
-#EXTINF:-1,109 TNT HD
-http://45.160.12.253:8000/play/109
-#EXTINF:-1,110 TCM SD
-http://45.160.12.253:8000/play/110
-#EXTINF:-1,112 Cinemax HD
-http://45.160.12.253:8000/play/112
-#EXTINF:-1,113 Golden Edge
-http://45.160.12.253:8000/play/113
-#EXTINF:-1,116 I-Sat SD
-http://45.160.12.253:8000/play/116
-#EXTINF:-1,119 Space HD
-http://45.160.12.253:8000/play/119
-#EXTINF:-1,SPACE HD
-http://138.59.177.34:8000/play/a06x/index.m3u8
-#EXTINF:-1,STAR CHANNEL
-http://138.59.177.34:8000/play/a06d/index.m3u8
-#EXTINF:-1,STAR CHANNEL HD
-http://138.59.177.34:8000/play/a05c/index.m3u8
-#EXTINF:-1,120 MX Family HD
-http://45.160.12.253:8000/play/120
-#EXTINF:-1,121 MX Classic HD
-http://45.160.12.253:8000/play/121
-#EXTINF:-1,122 MX Prime HD
-http://45.160.12.253:8000/play/122
-#EXTINF:-1,123 MX Old HD
-http://45.160.12.253:8000/play/123
-#EXTINF:-1,124 Canal Dos HD
-http://45.160.12.253:8000/play/124
-#EXTINF:-1,131 ViaX V+
-http://45.160.12.253:8000/play/131
-#EXTINF:-1,132 MTV SD
-http://45.160.12.253:8000/play/132
- #EXTINF:-1 tvg-id="MTVSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-MTV.png" audio-track="spa" group-title="Musica", MTV
-https://router.cdn.rcs.net.ar/anevia/live/localdisk/MTV/SA_HLS/MTV.m3u8
-#EXTINF:-1,MTV 00s
-http://138.59.177.34:8000/play/a04b/index.m3u8
-#EXTINF:-1,MTV 00s HD
-http://138.59.177.34:8000/play/a05r/index.m3u8
-#EXTINF:-1,MTV 80s
-http://138.59.177.34:8000/play/a02j/index.m3u8
-#EXTINF:-1,MTV Hits
-http://138.59.177.34:8000/play/a02i/index.m3u8
-#EXTINF:-1,MTV SIM HD
-http://138.59.177.34:8000/play/a05q/index.m3u8
-#EXTINF:-1,Classic Rock
-http://181.205.130.194:4000/play/a0bh/index.m3u8
-#EXTINF:-1 tvg-id="HTV.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-HTV.png" audio-track="spa" group-title="Musica", HTV
-https://router.cdn.rcs.net.ar/mnp/htv/output.mpd
+#EXTINF:-1,Latino | A&E
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/20
+#EXTINF:-1,Latino | A3S
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/565
+#EXTINF:-1,Latino | ADN40
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/9
+#EXTINF:-1,Latino | Adrenalina Sports Network
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1301
+#EXTINF:-1,Latino | AMC
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/78
+#EXTINF:-1,Latino | America TV
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1237
+#EXTINF:-1,Latino | Animal Planet
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/61
+#EXTINF:-1,Latino | Antena 3 INT
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/564
+#EXTINF:-1,Latino | AXN
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/21
+#EXTINF:-1,Latino | AXN White
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/609
+#EXTINF:-1,Latino | AZ Cinema
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/72
+#EXTINF:-1,Latino | AZ Corazon
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/29
+#EXTINF:-1,Latino | AZ Mundo
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/41
+#EXTINF:-1,Latino | Azteca 1
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/458
+#EXTINF:-1,Latino | Azteca 7
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/6
+#EXTINF:-1,Latino | Cartoonito
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/52
+#EXTINF:-1,Latino | Canal De Las Estrellas
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/3
+#EXTINF:-1,Latino | Caracol
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/284
+#EXTINF:-1,Latino | Caracol Int
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1243
+#EXTINF:-1,Latino | Cartoon Network
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/50
+#EXTINF:-1,Latino | Cinecanal
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/73
+#EXTINF:-1,Latino | CineLatino
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/303
+#EXTINF:-1,Latino | Cinemax
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/82
+#EXTINF:-1,Latino | Discovery Channel
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/60
+#EXTINF:-1,Latino | Discovery en Espanol
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/567
+#EXTINF:-1,Latino | Discovery Familia
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/253
+#EXTINF:-1,Latino | Discovery H&H
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/62
+#EXTINF:-1,Latino | Discovery ID
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/32
+#EXTINF:-1,Latino | Discovery Kids
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/43
+#EXTINF:-1,Latino | Discovery Science
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/110
+#EXTINF:-1,Latino | Discovery Theater
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/56
+#EXTINF:-1,Latino | Discovery TLC
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/65
+#EXTINF:-1,Latino | Discovery Turbo
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/285
+#EXTINF:-1,Latino | Discovery World
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/59
+#EXTINF:-1,Latino | Disney Channel
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/46
+#EXTINF:-1,Latino | Disney JR
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/44
+#EXTINF:-1,Latino | Distrito Comedia
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/38
+#EXTINF:-1,Latino | E!
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/30
+#EXTINF:-1,Latino | El Garage
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/475
+#EXTINF:-1,Latino | El Gourmet
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/34
+#EXTINF:-1,Latino | ESPN
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/97
+#EXTINF:-1,Latino | ESPN 2
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1456
+#EXTINF:-1,Latino | ESPN 3
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/91
+#EXTINF:-1,Latino | ESPN Deportes
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/528
+#EXTINF:-1,Latino | ESPN Plus
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/90
+#EXTINF:-1,Latino | Estrella TV
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/418
+#EXTINF:-1,Latino | Food Network
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/27
+#EXTINF:-1,Latino | Fox Sports
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/92
+#EXTINF:-1,Latino | Fox Sports 2
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/93
+#EXTINF:-1,Latino | Fox Sports 3
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/100
+#EXTINF:-1,Latino | Fox Sports Premium
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/992
+#EXTINF:-1,Latino | FX
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/19
+#EXTINF:-1,Latino | Glitz
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/36
+#EXTINF:-1,Latino | Gol TV
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/293
+#EXTINF:-1,Latino | Golden Edge
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/84
+#EXTINF:-1,Latino | Golden Plus
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/75
+#EXTINF:-1,Latino | Golden Premier
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/83
+#EXTINF:-1,Latino | Golf Channel
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/89
+#EXTINF:-1,Latino | HBO
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/120
+#EXTINF:-1,Latino | HBO 2
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/121
+#EXTINF:-1,Latino | HBO Family
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/119
+#EXTINF:-1,Latino | HBO Plus
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/610
+#EXTINF:-1,Latino | HBO PoP
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/117
+#EXTINF:-1,Latino | HBO Signature
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/118
+#EXTINF:-1,Latino | HBO Xtreme
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/298
+#EXTINF:-1,Latino | HGTV
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1425
+#EXTINF:-1,Latino | History 2
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/289
+#EXTINF:-1,Latino | History Channel
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/57
+#EXTINF:-1,Latino | Lifetime
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/64
+#EXTINF:-1,Latino | MTV
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/620
+#EXTINF:-1,Latino | Multimedios
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/14
+#EXTINF:-1,Latino | Nat Geo
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/63
+#EXTINF:-1,Latino | Nick
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/48
+#EXTINF:-1,Latino | Nick Jr
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/45
+#EXTINF:-1,Latino | Nicktoons
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/47
+#EXTINF:-1,Latino | Paramount
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1166
+#EXTINF:-1,Latino | Pasiones
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/305
+#EXTINF:-1,Latino | RCN
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/302
+#EXTINF:-1,Latino | Sony
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/16
+#EXTINF:-1,Latino | Space
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/79
+#EXTINF:-1,Latino | Star Channel
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/15
+#EXTINF:-1,Latino | Starz Encore
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/651
+#EXTINF:-1,Latino | Starz Kids & Family
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1047
+#EXTINF:-1,Latino | Studio Universal
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/86
+#EXTINF:-1,Latino | USA Network
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/31
+#EXTINF:-1,Latino | TNT Novelas
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/39
+#EXTINF:-1,Latino | TCM
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/88
+#EXTINF:-1,Latino | Telehit
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/422
+#EXTINF:-1,Latino | Telemundo Int
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/54
+#EXTINF:-1,Latino | TLnovelas
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/40
+#EXTINF:-1,Latino | TNT
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/74
+#EXTINF:-1,Latino | TNT Series
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/33
+#EXTINF:-1,Latino | Tooncast
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/55
+#EXTINF:-1,Latino | TruTV
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/22
+#EXTINF:-1,Latino | TVC
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/28
+#EXTINF:-1,Latino | TVC Deportes
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/306
+#EXTINF:-1,Latino | TyC Sports
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/288
+#EXTINF:-1,Latino | Unicable
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/24
+#EXTINF:-1,Latino | Unimas
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/286
+#EXTINF:-1,Latino | Universal TV
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/18
+#EXTINF:-1,Latino | VH1
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/625
+#EXTINF:-1,Latino | VH1 Classics
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/624
+#EXTINF:-1,Latino | Warner
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/17
+#EXTINF:-1,Latino | Win Sports
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/297
+#EXTINF:-1,Latino | Win Sports +
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1417
+#EXTINF:-1,Latino | Canal 44
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1536
+#EXTINF:-1,Latino | Televisa MTY
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1555
+#EXTINF:-1,Latino | ESPN 4
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1598
+#EXTINF:-1,Latino | Golden
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1624
+#EXTINF:-1,Latino | HBO Mundi
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1628
+#EXTINF:-1,Latino | Bandamax
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1634
+#EXTINF:-1,Latino | Starz Edge
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1649
+#EXTINF:-1,Latino | DAZN F1
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1650
 
-#EXTINF:-1 tvg-id="Much.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-MuchMusic.png" audio-track="spa" group-title="Musica", Much Music
-https://router.cdn.rcs.net.ar/mnp/much_music/output.mpd
-#EXTINF:-1,Claro Cinema
-http://138.59.177.34:8000/play/a05b/index.m3u8
-#EXTINF:-1,Claro Musica
-http://138.59.177.34:8000/play/a04a/index.m3u8
-#EXTINF:-1,133 Zona Latina SD
-http://45.160.12.253:8000/play/133
-#EXTINF:-1,137 Old Music HD
-http://45.160.12.253:8000/play/137
-#EXTINF:-1,138 Zoomback HD
-http://45.160.12.253:8000/play/138
-#EXTINF:-1,149 Telemundo V+
-http://45.160.12.253:8000/play/149
-#EXTINF:-1,150 Pasiones HD
-http://45.160.12.253:8000/play/150
-#EXTINF:-1 tvg-logo="https://www.canela.tv/themes/custom/cnm/canela_tv/logo.png" group-title="ENTRETENIMIENTO", Kanal D Drama
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
-#EXTINF:-1,151 Las Estrellas HD
-http://45.160.12.253:8000/play/151
-#EXTINF:-1,153 TVE SD
-http://45.160.12.253:8000/play/153
-#EXTINF:-1,STAR TVE HD
-http://181.205.130.194:4000/play/a0c4/index.m3u8
-#EXTINF:-1,Antena 3
-http://138.59.177.34:8000/play/a00s/index.m3u8
-#EXTINF:-1,Antena 7- RD
-http://138.59.177.34:8000/play/a01x/index.m3u8
-#EXTINF:-1,Atres Series
-http://138.59.177.34:8000/play/a00y/index.m3u8
-#EXTINF:-1,171 Discovery H&H HD
-http://45.160.12.253:8000/play/171
-#EXTINF:-1,172 TLC SD
-http://45.160.12.253:8000/play/172
-#EXTINF:-1,174 E entertainment
-http://45.160.12.253:8000/play/174
-#EXTINF:-1,179 On Tour Channel HD
-http://45.160.12.253:8000/play/179
-#EXTINF:-1,207 Discovery Turbo SD
-http://45.160.12.253:8000/play/207
-#EXTINF:-1,209 Fox Sports 1 HD
-http://45.160.12.253:8000/play/209
-#EXTINF:-1,210 Fox Sports 2 HD
-http://45.160.12.253:8000/play/210
-#EXTINF:-1,211 Fox Sports 3 HD
-http://45.160.12.253:8000/play/211
-#EXTINF:-1,212 ESPN HD
-http://45.160.12.253:8000/play/212
-#EXTINF:-1,214 ESPN 2
-http://45.160.12.253:8000/play/214
-#EXTINF:-1,216 ESPN 3 HD
-http://45.160.12.253:8000/play/216
-#EXTINF:-1,218 ESPN 4 HD
-http://45.160.12.253:8000/play/218
-#EXTINF:-1,232 Sport EXT HD
-http://45.160.12.253:8000/play/232
-#EXTINF:-1,233 TNT SPORTS HD
-http://45.160.12.253:8000/play/233
-#EXTINF:-1,234 TNT Sports 2 SD
-http://45.160.12.253:8000/play/234
-#EXTINF:-1,235 TNT SPORTS 3
-http://45.160.12.253:8000/play/235
-#EXTINF:-1,TBS
 http://138.59.177.34:8000/play/a02e/index.m3u8
 #EXTINF:-1,Latino | Comedy Central
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/23
@@ -339,17 +352,25 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/651
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1047
 #EXTINF:-1,Latino | Tooncast
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/55
-#EXTINF:-1,Latino | TruTV
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/22
-#EXTINF:-1,Latino | Unicable
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/24
-#EXTINF:-1,Latino | Unimas
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/286
 #EXTINF:-1,Latino | VH1
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/625
 #EXTINF:-1,Latino | VH1 Classics
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/624
 #EXTINF:-1,Latino | Starz Edge
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1649
-#EXTINF:-1,Latino | DAZN F1
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1650
+#EXTINF:-1 tvg-id="El Chavo" tvg-name="El Chavo" tvg-logo="https://i.imgur.com/mMF8pX1.png" group-title="24/7",El Chavo del 8 | 24/7
+http://pe.shortgod.com/awester/tv6.php?id=150
+#EXTINF:-1 tvg-id="El Chavo" tvg-name="El Chavo" tvg-logo="https://i.imgur.com/inXbFqE.png" group-title="24/7",El Chavo Animado | 24/7
+http://pe.shortgod.com/awester/tv10.php?id=12023
+#EXTINF:-1 tvg-id="El Chapulin" tvg-name="El Chapulin" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/760449bd-621b-4777-b7bc-9fde4d1f27cb-profile_image-70x70.png" group-title="24/7",El Chapulin Colorado | 24/7
+http://pe.shortgod.com/awester/tv6.php?id=113&token=ShortGod&file=.m3u8
+#EXTINF:-1 tvg-id="El Chapulin" tvg-name="El Chapulin" tvg-logo="https://i.imgur.com/B6TDkOb.png" group-title="24/7",El Chapulin Colorado Animado | 24/7
+http://pe.shortgod.com/awester/tv6.php?id=113
+#EXTINF:-1 tvg-id="Chespirito" tvg-name="Chespirito" tvg-logo="https://i.imgur.com/UswxIKp.png" group-title="24/7",Chespirito | 24/7
+http://pe.shortgod.com/awester/tv6.php?id=355&token=ShortGod&file=.m3u8
+#EXTINF:-1 tvg-id="Futurama" tvg-name="Futurama" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c9baab2e-d824-42eb-8d7f-32e309a46b95-profile_image-70x70.png" group-title="24/7",Futurama | 24/7
+http://pe.shortgod.com/awester/tv6.php?id=166&token=ShortGod&file=.m3u8
+#EXTINF:-1 tvg-id="Los Simpson" tvg-name="Los Simpson" tvg-logo="https://e1.pngegg.com/pngimages/669/354/png-clipart-los-simpsons-1-texto-p-the-simpsons-text.png" group-title="24/7",Los Simpsons | 24/7
+http://pe.shortgod.com/awester/tv1.php?id=357.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wZUDfAD.png" group-title="24/7",Digimon | 24/7
+http://pe.shortgod.com/awester/tv6.php?id=129
