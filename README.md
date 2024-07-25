@@ -58,8 +58,12 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1566826453190205442/EWGUZmdC_400x400.jpg" group-title="NOTICIAS INTERNACIONAL", 24 HORAS ESPAÑA
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wRy3AgzuKPU64ppne21ccwQU_TDcFwke4m3NRFw-1zdPgUjCBjlUoNmQDXJ5QgakwQ0tDKmC=s88-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", RADIO RIVADAVIA AM 630
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wRy3AgzuKPU64ppne21ccwQU_TDcFwke4m3NRFw-1zdPgUjCBjlUoNmQDXJ5QgakwQ0tDKmC=s88-c-k-c0x00ffffff-no-rj" group-title="NACIONALES", RADIO RIVADAVIA AM 630
 https://ythls.armelin.one/channel/UCLAj5TzCrNbqe3LosSKHLcQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://fmaspen.com/wp-content/themes/aspen/images/logoaspen.png" group-title="NACIONALES", RADIO ASPEN 102.3
+https://mdstrm.com/audio/60a2745ff943100826374a70/icecast.audio
+
 
 #EXTINF:-1 tvg-logo="https://radiovalleviejo.com.ar/wp-content/uploads/2020/03/logo2020.png" group-title="NORTE", RADIO VALLE VIEJO 104.1 FM CATAMARCA
 https://stmvideo1.livecastv.com/valleviejo/valleviejo/playlist.m3u8
@@ -69,8 +73,9 @@ https://stmvideo1.livecastv.com/valleviejo/valleviejo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1526667146012594176/C41mVhO6_400x400.jpg" group-title="CATAMARCA", INFORAMA RADIO CATAMARCA
 https://streamlov.alsolnet.com/inforamaradio/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1526667146012594176/C41mVhO6_400x400.jpg" group-title="CATAMARCA", INFORAMA RADIO identidad
+#EXTINF:-1 tvg-logo="https://fmidentidad1015.radio12345.com/users.img/2811277/1709205921/icon_thumb_80_1709205921.png" group-title="CATAMARCA",FM IDENTIDAD 101.5
 https://uk2freenew.listen2myradio.com/live.mp3?typeportmount=s2_13742_stream_76972913
+
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.imgur.com/z780GyN.png" group-title="JOVENES Y ADULTOS",AnimeStation
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.imgur.com/z780GyN.png" group-title="JOVENES Y ADULTOS",AnimeStation (Opcion 2)
@@ -89,6 +94,8 @@ https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/magic2019/playlist.m3u8
 #EXTINF:-1 tvg-id="Magic Kids" tvg-name="Magic Kids" tvg-logo="https://i.imgur.com/k8hx0C6.png" group-title="CANALES INDEPENDIENTES",Magic Kids | Argentina
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
+#EXTINF:-1 tvg-id="Magic Kids 3" tvg-name="Magic Kids 3" tvg-logo="https://i.imgur.com/k8hx0C6.png" group-title="CANALES INDEPENDIENTES",Magic Kids 3 | Argentina
+https://kali1.everestcast.com:3600/stream/play.m3u8
 #EXTINF:-1 tvg-id="Dreiko TV" tvg-name="Dreiko TV" tvg-logo="https://i.imgur.com/eaqJWmD.png" group-title="CANALES INDEPENDIENTES",Dreiko TV | Panamá
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 #EXTINF:-1 tvg-id="Gogoplay TV" tvg-name="Gogoplay TV" tvg-logo="https://i.imgur.com/tCwRSRr.png" group-title="CANALES INDEPENDIENTES",Gogoplay TV | Bolivia
