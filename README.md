@@ -69,8 +69,8 @@ https://stmvideo1.livecastv.com/valleviejo/valleviejo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1526667146012594176/C41mVhO6_400x400.jpg" group-title="CATAMARCA", INFORAMA RADIO CATAMARCA
 https://streamlov.alsolnet.com/inforamaradio/live/playlist.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1526667146012594176/C41mVhO6_400x400.jpg" group-title="CATAMARCA", INFORAMA RADIO identidad
+https://uk2freenew.listen2myradio.com/live.mp3?typeportmount=s2_13742_stream_76972913
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.imgur.com/z780GyN.png" group-title="JOVENES Y ADULTOS",AnimeStation
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.imgur.com/z780GyN.png" group-title="JOVENES Y ADULTOS",AnimeStation (Opcion 2)
@@ -99,7 +99,7 @@ https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PCtEVPc.jpg" group-title="Familiares",Teleclasica
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XVb8GeN.png" group-title="Familiares",TV Retro Palmares
+#EXTINF:-1 tvg-id="" tvg-logo= "https://i.imgur.com/XVb8GeN.png" group-title="Familiares",TV Retro Palmares
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Adult Swim LA" tvg-name="Adult Swim LA" tvg-logo="https://i.imgur.com/gF5cqMl.png" group-title="JOVENES Y ADULTOS",Adult Swim LA | ND
