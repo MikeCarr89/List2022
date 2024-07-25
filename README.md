@@ -73,7 +73,7 @@ https://stmvideo1.livecastv.com/valleviejo/valleviejo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1526667146012594176/C41mVhO6_400x400.jpg" group-title="CATAMARCA", INFORAMA RADIO CATAMARCA
 https://streamlov.alsolnet.com/inforamaradio/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fmidentidad1015.radio12345.com/users.img/2811277/1709205921/icon_thumb_80_1709205921.png" group-title="CATAMARCA",FM IDENTIDAD 101.5
-https://uk2freenew.listen2myradio.com/live.mp3?typeportmount=s2_13742_stream_76972913
+https://uk2freenew.listen2myradio.com/live.mp3?typeportmount=s2_13742_stream_128463308
 
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.imgur.com/z780GyN.png" group-title="JOVENES Y ADULTOS",AnimeStation
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
