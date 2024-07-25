@@ -62,7 +62,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://ythls.armelin.one/channel/UCLAj5TzCrNbqe3LosSKHLcQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://fmaspen.com/wp-content/themes/aspen/images/logoaspen.png" group-title="NACIONALES", RADIO ASPEN 102.3
-https://mdstrm.com/audio/60a2745ff943100826374a70/icecast.audio
+https://playerservices.streamtheworld.com/api/livestream-redirect/ASPEN_SC
 
 
 #EXTINF:-1 tvg-logo="https://radiovalleviejo.com.ar/wp-content/uploads/2020/03/logo2020.png" group-title="NORTE", RADIO VALLE VIEJO 104.1 FM CATAMARCA
