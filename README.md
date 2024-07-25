@@ -62,7 +62,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://ythls.armelin.one/channel/UCLAj5TzCrNbqe3LosSKHLcQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://fmaspen.com/wp-content/themes/aspen/images/logoaspen.png" group-title="NACIONALES", RADIO ASPEN 102.3
-https://api.instant.audio/data/playlist/18/aspen
+https://27373.live.streamtheworld.com/ASPEN.mp3
 
 
 #EXTINF:-1 tvg-logo="https://radiovalleviejo.com.ar/wp-content/uploads/2020/03/logo2020.png" group-title="NORTE", RADIO VALLE VIEJO 104.1 FM CATAMARCA
@@ -84,6 +84,7 @@ https://rpn3.bozztv.com/ssh101/ssh101/livestreamtvla/playlist.m3u8
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png", Locomotion (Opt 2)
 http://51.222.85.85:81/hls/loco/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.imgur.com/oNmtnby.png" group-title="Familiares",ACS NETWORK TV
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B7odp7O.png" group-title="Familiares",Retro Magico
