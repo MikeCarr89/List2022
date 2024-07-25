@@ -1,11 +1,9 @@
 # List2024
 #EXTM3U 
  #EXTINF:0 tvg-id="Volver" tvg-logo="https://cdn.mitvstatic.com/channels/ar_volver_m.png" group-title="SHORTGOD",Volver | Argentina
-http://pe.shortgod.com/awester/tv8.php?id=46751&f=.m3u8
-#EXTINF:-1 tvg-id="NetTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/NET_TV.jpg" group-title="NACIONALES", NET TV 27.2
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
- #EXTINF:0 tvg-id="test" tvg-logo="https://cdn.mitvstatic.com/channels/ar_volver_m.png" group-title="SHORTGOD",test
 https://cn2021.jahh19channel.xyz/Apps/dataCNv2.json
+#EXTINF:-1 tvg-id="NetTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/NET_TV.jpg" group-title="NACIONALES", NET TV 27.2
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u
 
 #EXTINF:-1 tvg-id="NetTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/NET_TV.jpg" group-title="NACIONALES", NET TV 27.2
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
