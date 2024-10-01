@@ -90,6 +90,8 @@ https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/magic2019/playlist.m3u8
 #EXTINF:-1 tvg-id="Magic Kids" tvg-name="Magic Kids" tvg-logo="https://i.imgur.com/k8hx0C6.png" group-title="CANALES INDEPENDIENTES",Magic Kids | Argentina
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://th.bing.com/th/id/OIP.xwVR3qKRlH29y77n5HN6IAHaDf?rs=1&pid=ImgDetMain" group-title="CANALES INDEPENDIENTES",Cartoon Network | Argentina
+https://envivo.cncity.live/hls/cncity.m3u8
 #EXTINF:-1 tvg-id="Dreiko TV" tvg-name="Dreiko TV" tvg-logo="https://i.imgur.com/eaqJWmD.png" group-title="CANALES INDEPENDIENTES",Dreiko TV | Panamá
 https://cloudvideo.servers10.com:8081/8096/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Gogoplay TV" tvg-name="Gogoplay TV" tvg-logo="https://scontent.ftuc1-1.fna.fbcdn.net/v/t39.30808-6/359811031_660398686110990_4755177565588958893_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeF3MzM_Zd3DBe-9bovoSow0Mu2EF_8Sp1gy7YQX_xKnWF5kOeBtQle47fXZj6VkPFUktzk_dV-3ZvGlCAGEmUWt&_nc_ohc=gxzqLE0zxHgQ7kNvgFLZQYB&_nc_ht=scontent.ftuc1-1.fna&oh=00_AYBSFgggpMDMcEqywPYBhDjN8-Sw11J0rS4NArI7ijbmCg&oe=66D9913E" group-title="CANALES INDEPENDIENTES",Gogoplay TV | Bolivia
