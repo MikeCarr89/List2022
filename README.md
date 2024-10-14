@@ -80,7 +80,7 @@ https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://scontent.ftuc1-2.fna.fbcdn.net/v/t39.30808-6/433739776_10232371532739349_128802427437970138_n.jpg?stp=dst-jpg_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=2285d6&_nc_eui2=AeFarTbQe0U2Ubf41Oryr04IJedJNZV2nAUl50k1lXacBQYQtXhzfvEvm4GU0NVYVoxPq5iIEtkC4-FPdfSuueB2&_nc_ohc=lRj43mO22uIQ7kNvgHHOYYd&_nc_ht=scontent.ftuc1-2.fna&oh=00_AYD2n39y08ulqDouVG5wQMS3wMm7azD03d-Jn2iU0xI-Uw&oe=66D9A29A" group-title="Familiares",Retro Magico
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
 #EXTINF:-1 tvg-id="Big Channel" tvg-name="Big Channel" tvg-logo="https://scontent.ftuc1-1.fna.fbcdn.net/v/t39.30808-6/428618187_122121310130188682_1595619983470554106_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEmVLqU3Dbg53yoUEVbjbqmgNKHI1GnSPSA0ocjUadI9PMVvF1A-O0b3p1kXZemn7cpnZ8qf1AVRGKCwotCGXdB&_nc_ohc=IEGjXJzcsTEQ7kNvgEpqlu6&_nc_ht=scontent.ftuc1-1.fna&oh=00_AYAb01FytVO6qxoqusO-z9Z69BXPoHMAk-kV4fLFmnXSqA&oe=66D9784A" group-title="Familiares",Big Channel
-https://ok.ru/video/8483100434106
+//ok.ru/videoembed/8483100434106?autoplay=1
 #EXTINF:-1 tvg-id="Magic Kids Tv" tvg-name="Magic Kids Tv" tvg-logo="https://i.imgur.com/aSJxuYm.png" group-title="CANALES INDEPENDIENTES",Magic Kids Tv | Argentina
 https://ssh101.bozztv.com/ssh101/magic2019/playlist.m3u8
 #EXTINF:-1 tvg-id="Magic Kids" tvg-name="Magic Kids" tvg-logo="https://i.imgur.com/k8hx0C6.png" group-title="CANALES INDEPENDIENTES",Magic Kids | Argentina
