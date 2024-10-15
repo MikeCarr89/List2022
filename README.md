@@ -10,10 +10,8 @@ https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409840532529029128/jDV8aWP-_400x400.jpg" group-title="NACIONALES", CIUDAD MAGAZINE
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="http://x.playerlatino.live/telefe.png" group-title="AMBA", TELEFE  34.1
-https://edge-live31-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
 
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="http://x.playerlatino.live/telefe.png" group-title="AMBA", TELEFE  34.1 OPCION 2
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="http://x.playerlatino.live/telefe.png" group-title="AMBA", TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8 
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1344843564535132160/xT96d8Zv_400x400.jpg" group-title="AMBA", CANAL 13  33.1
@@ -62,7 +60,8 @@ https://ythls.armelin.one/channel/UCLAj5TzCrNbqe3LosSKHLcQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://fmaspen.com/wp-content/themes/aspen/images/logoaspen.png" group-title="NACIONALES", RADIO ASPEN 102.3
 https://27373.live.streamtheworld.com/ASPEN.mp3
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsdrRWxt/disneyr.jpg" group-title="GUILMONZERO 😉",Radio Disney | Argentina
+https://27613.live.streamtheworld.com/DISNEY_ARG_BA.mp3
 
 #EXTINF:-1 tvg-logo="https://radiovalleviejo.com.ar/wp-content/uploads/2020/03/logo2020.png" group-title="NORTE", RADIO VALLE VIEJO 104.1 FM CATAMARCA
 ttps://stmvideo1.livecastv.com/valleviejo/valleviejo/chunklist_w423342500.m3u8
@@ -79,9 +78,8 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://scontent.ftuc1-2.fna.fbcdn.net/v/t39.30808-6/433739776_10232371532739349_128802427437970138_n.jpg?stp=dst-jpg_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=2285d6&_nc_eui2=AeFarTbQe0U2Ubf41Oryr04IJedJNZV2nAUl50k1lXacBQYQtXhzfvEvm4GU0NVYVoxPq5iIEtkC4-FPdfSuueB2&_nc_ohc=lRj43mO22uIQ7kNvgHHOYYd&_nc_ht=scontent.ftuc1-2.fna&oh=00_AYD2n39y08ulqDouVG5wQMS3wMm7azD03d-Jn2iU0xI-Uw&oe=66D9A29A" group-title="Familiares",Retro Magico
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Big TV" tvg-name="Big TV" tvg-logo="https://i.imgur.com/SoPjHGj.png" group-title="INFANTILES",Big TV | Argentina
-https://fl1001.bozztv.com/ssh101/bigchannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JntjRHcx/bigtv.jpg" group-title="Animados | Variado",Big TV (CO)
+https://xhateaec.com:8800/hls/bigtv/bigtv/2e7c0930c48d249969862b4c76ab97c8/index.m3u8
 
 #EXTINF:-1 tvg-id="Magic Kids Tv" tvg-name="Magic Kids Tv" tvg-logo="https://i.imgur.com/aSJxuYm.png" group-title="CANALES INDEPENDIENTES",Magic Kids Tv | Argentina
 https://ssh101.bozztv.com/ssh101/magic2019/playlist.m3u8
@@ -91,10 +89,20 @@ https://magicstream.ddns.net:443/magicstream/stream.m3u8
 https://envivo.cncity.live/hls/cncity.m3u8
 #EXTINF:-1 tvg-id="Dreiko TV" tvg-name="Dreiko TV" tvg-logo="https://i.imgur.com/eaqJWmD.png" group-title="CANALES INDEPENDIENTES",Dreiko TV | Panamá
 https://cloudvideo.servers10.com:8081/8096/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Gogoplay TV" tvg-name="Gogoplay TV" tvg-logo="https://scontent.ftuc1-1.fna.fbcdn.net/v/t39.30808-6/359811031_660398686110990_4755177565588958893_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeF3MzM_Zd3DBe-9bovoSow0Mu2EF_8Sp1gy7YQX_xKnWF5kOeBtQle47fXZj6VkPFUktzk_dV-3ZvGlCAGEmUWt&_nc_ohc=gxzqLE0zxHgQ7kNvgFLZQYB&_nc_ht=scontent.ftuc1-1.fna&oh=00_AYBSFgggpMDMcEqywPYBhDjN8-Sw11J0rS4NArI7ijbmCg&oe=66D9913E" group-title="CANALES INDEPENDIENTES",Gogoplay TV | Bolivia
-https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Latino Kids Tv" tvg-name="Latino Kids Tv" tvg-logo="https://i.imgur.com/BArIlh7.jpg" group-title="CANALES INDEPENDIENTES",Latino Kids TV | Uruguay
 https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3YrRxQ3/Etc.jpg" group-title="Animados | Variado",ETC (CL)
+http://186.148.195.206:8000/play/a06q/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3YrRxQ3/Etc.jpg" group-title="Animados | Variado",ETC | Opción 2 (CL)
+http://181.129.198.238:8000/play/a06n/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xd31gqj3/ztv2.jpg" group-title="Animados | Variado",ZTV | Anime (CL)
+https://mitv.zplay.cl/ZAnime/tracks-v1a1/mono.m3u8?token=_3X8xrfOrbW3B_
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjrKpngv/ztv-kids.jpg" group-title="Animados | Variado",ZTV | Kids (CL)
+https://mitv.zplay.cl/Zkids/tracks-v1a1/mono.m3u8?token=_3X8xrfOrbW3B_
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76CQwsss/toonizaki.jpg" group-title="Animados | Variado",ZTV | Toonizaki | Retro (CL)
+https://mitv.zplay.cl/ZRetro/tracks-v1a1/mono.m3u8?token=_3X8xrfOrbW3B_
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://th.bing.com/th/id/OIP.oFAEGALczOhCO0aXJkMn0wAAAA?rs=1&pid=ImgDetMain" group-title="Familiares",Teleclasica
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
@@ -105,15 +113,14 @@ https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 #EXTINF:-1 tvg-id="Mi TV Television Clasica" tvg-name="Mi TV Television Clasica" tvg-logo="https://i.imgur.com/8rJZuk0.png"  group-title="CANALES INDEPENDIENTES",Mi TV Television Clasica | USA
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Miramax Tv" tvg-name="Miramax Tv" tvg-logo="https://i.imgur.com/vIa08pj.jpg" group-title="CANALES INDEPENDIENTES",Miramax Tv | ND
-https://fl1001.bozztv.com/ssh101/miramaxtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Tierra Mia" tvg-name="Tierra Mia" tvg-logo="https://www.canal26.com/images/open-graph/tierramia_logo.png" group-title="FAMILIARES",Tierra Mia | Argentina
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
-#EXTINF:-1 tvg-id="Big Cine" tvg-name="Big Cine" tvg-logo="https://imgur.com/jEcFLev.png" group-title="CINE",Big Cine | Colombia
-https://fl1001.bozztv.com/ssh101/canalonline/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/atlRdIQ.png" group-title="CINE",Bjgtjme | Argentina
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/atlRdIQ.png" group-title="CINE",Bigtime | Argentina
 https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nL56whVY/avi.jpg" group-title="Animados | Variado",AVI (LATAM)
+https://mitv.zplay.cl/Avi/video.m3u8?token=D4lm1R0m-tFJES
 
 
 #EXTINF:-1 tvg-id="Zaz TV" tvg-name="Zaz TV" tvg-logo="https://i.imgur.com/DdYrpbY.png" group-title="INFANTILES",Zaz TV | Mexico
@@ -126,25 +133,14 @@ https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Retro Plus 2 TV" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="MUSICA",Retro Plus 2 TV
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telehit" tvg-name="Telehit" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telehit.png" group-title="MUSICA",Telehit | Mexico
-http://latinosiptv.online:8090/live/notocar/xmauc84bx1/1098.m3u8
-
-#EXTINF:-1 tvg-id="Telehit" tvg-name="Telehit" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telehit.png" group-title="MUSICA",Telehit | Mexico
-https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Retropalmares" tvg-logo= "https://th.bing.com/th/id/OIP.VXCkIWL9TQB056hxir7huAHaHa?rs=1&pid=ImgDetMain" group-title="Familiares",TV Retro Palmares
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 #EXTINF:-1 tvg-id="Retrocanal 2" tvg-logo= "https://th.bing.com/th/id/OIP.oIFTHQEI6uyNQnPVbLIqeQHaHa?rs=1&pid=ImgDetMain" group-title="Familiares",TV Retro Canal 2
 https://fl1002.bozztv.com/ssh101/variado/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Adult Swim LA" tvg-name="Adult Swim LA" tvg-logo="https://th.bing.com/th/id/R.0ac567f04dc3f8680a051fefab4d1292?rik=cNp%2fTks%2b8Hb1xg&pid=ImgRaw&r=0" group-title="JOVENES Y ADULTOS",Adult Swim LA | ND
-http://181.78.8.90:16123/play/ch75
-#EXTINF:-1 tvg-id="Adult Swim" tvg-name="Adult Swim" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="JOVENES Y ADULTOS",Adult Swim HD | ND
-http://190.61.42.218:9000/play/a00u
+
 #EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0c2.png",Adult Swim HD
 http://177.53.153.20:8001/play/a02k/index.m3u8
 
-#EXTINF:-1 tvg-id="AZTV" tvg-name="AZTV" tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="JOVENES Y ADULTOS",Anime Zone TV | Republica Dominicana
-http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="JOVENES Y ADULTOS",Locomotion | Republica Dominicana
 http://51.222.85.85:81/hls/loco/index.m3u8
 
@@ -164,15 +160,6 @@ https://fl1001.bozztv.com/ssh101/toonamitv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Toonami Tv" tvg-name="Toonami Tv" tvg-logo="https://imgur.com/UJwhZfS.jpg" group-title="JOVENES Y ADULTOS",Toonami Tv op2 | ND
 https://glb.bozztv.com/glb/ssh101/toonamitv/index.m3u8
-
-
-#EXTINF:-1 tvg-id="AZTV" tvg-name="AZTV" tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="JOVENES Y ADULTOS",Anime Zone TV op2 | Republica Dominicana
-http://animezonetv.com/hls/stream.m3u8
-#EXTINF:-1 tvg-name="AnimeStation" tvg-id="AnimeStation" tvg-logo="https://i.imgur.com/oaa8yMT.png" group-title="JOVENES Y ADULTOS",AnimeStation | Argentina
-https://comunidadtv.site:3119/live/aniplustvlive.m3u8
-
-#EXTINF:-1 tvg-name="AnimeStation" tvg-id="AnimeStation" tvg-logo="https://i.imgur.com/oaa8yMT.png" group-title="JOVENES Y ADULTOS",AnimeStation op2 | Argentina
-https://fl1001.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ani Retro" tvg-name="Ani Retro" tvg-logo="https://i.ibb.co/Np8WdpM/Logo-Ani-Retro.png" group-title="JOVENES Y ADULTOS",Ani Retro | Chile
 https://tv.streaming-chile.com:19360/8068/8068.m3u8
@@ -211,6 +198,10 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/44
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/38
 #EXTINF:-1,Latino | E!
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/30
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMfCjxdY/Tudn.jpg" group-title="Deportes | Aventura",TUDN (MX)
+http://181.78.105.146:2000/play/a08j/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMfCjxdY/Tudn.jpg" group-title="Deportes | Aventura",TUDN | Opción 2 (MX)
+http://181.78.105.146:8800/play/a07e
 #EXTINF:-1,Latino | ESPN
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/97
 #EXTINF:-1,Latino | ESPN 2
@@ -239,6 +230,14 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/120
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/121
 #EXTINF:-1,Latino | HBO Xtreme
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/298
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1NRXPNH/hbo-pop.jpg" group-title="Premium | Latino",HBO | Pop (LATAM)
+http://38.41.8.1:8000/play/a00d
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28vQQTb8/hbo-mundi.jpg" group-title="Premium | Latino",HBO | Mundi (LATAM)
+http://168.197.196.98:82/stream/channelid/1047753039?profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNh92TC8/hbo-signature.jpg" group-title="Premium | Latino",HBO | Signature (LATAM)
+http://217.26.191.85:8126/play/a0fd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5jJtpw1/hbo-plusx.jpg" group-title="Premium | Latino",HBO | Plus (LATAM)
+http://186.148.163.18:8000/play/a01o/index.m3u8
 #EXTINF:-1,Latino | History 2
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/289
 #EXTINF:-1,Latino | History Channel
@@ -275,13 +274,15 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/28
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/288
 #EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0em.png",DIRECTV SPORTS
 http://177.53.153.20:8001/play/a0em/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKGmvPt6/fifa.jpg" group-title="Deportes | Aventura",FIFA+ (US)
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=6128&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=ad52bd34-d0d7-4992-a48c-2b47756b46f1&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1780
+
 #EXTINF:-1,Latino | Warner
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/17
 #EXTINF:-1,Latino | Win Sports
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/297
 #EXTINF:-1,Latino | Win Sports +
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1417
-http://138.59.177.34:8000/play/a02e/index.m3u8
 #EXTINF:-1,Latino | Comedy Central
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/23
 #EXTINF:-1,Latino | VH1
