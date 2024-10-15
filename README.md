@@ -274,6 +274,8 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/28
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/288
 #EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0em.png",DIRECTV SPORTS
 http://177.53.153.20:8001/play/a0em/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0em.png",DIRECTV SPORTS Op 2
+https://bgfuzq.la10tv.com/dsportsplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKGmvPt6/fifa.jpg" group-title="Deportes | Aventura",FIFA+ (US)
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=6128&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=ad52bd34-d0d7-4992-a48c-2b47756b46f1&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1780
 
