@@ -1,6 +1,6 @@
 # List2024
 #EXTM3U 
-#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="Nacionales", La Nación +
+#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="Nacionales", La Nacion +
 http://181.13.173.86:8000/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telemax.png" group-title="Nacionales", Telemax
@@ -39,7 +39,7 @@ http://181.209.114.13:8000/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Nueve.png" group-title="Nacionales", El Nueve
 http://181.209.95.29:8000/play/a0a9/index.m3u8
 
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TVP.png" group-title="Nacionales", TV Pública
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TVP.png" group-title="Nacionales", TV Publica
 https://g3.proy-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.eventosflow.png.419023ac712af2067bbde356803bac28.png" group-title="Eventos Flow", Eventos Flow
 http://190.94.186.158:8000/play/a0bs/index.m3u8
@@ -75,10 +75,6 @@ https://27373.live.streamtheworld.com/ASPEN.mp3
 https://27613.live.streamtheworld.com/DISNEY_ARG_BA.mp3
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Y3yI1SZzwS-gsv3TSBdzheQ4EObiOFWuLHbphJrXMe1BAc3YXxuZK8njmO3jm6xf-IaSrda6JQ=s160-c-k-c0x00ffffff-no-rj" group-title="CATAMARCA", RADIO VALLE VIEJO 104.1 FM CATAMARCA
 https://stmvideo1.livecastv.com/valleviejo/valleviejo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/9vjcl17M8Aaa9KvAolzOPNKb2u5p_klrv6F0OGB-SDmfip4Von3zAF65xRzoT7LzMRQSb0mf6A=s160-c-k-c0x00ffffff-no-rj" group-title="CATAMARCA", Esquiú Play
-https://ythls-v3.onrender.com/channel/UCVJ4V2QLlrWpOMJ_N5Ck6Og.m3u8 
-
 
 
 #EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png", Locomotion
@@ -213,6 +209,8 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/30
 http://181.78.105.146:2000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kMfCjxdY/Tudn.jpg" group-title="Deportes | Aventura",TUDN | Opción 2 (MX)
 http://181.78.105.146:8800/play/a07e
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png" group-title="Deportes", TyC Sports
+http://181.78.27.128:8000/play/a063/index.m3u8 
 #EXTINF:-1,Latino | ESPN
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/97
 #EXTINF:-1,Latino | ESPN 2
