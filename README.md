@@ -2,6 +2,8 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="LN" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="Nacionales", LN+
 http://181.13.173.86:8000/play/a01s/index.m3u8
+#EXTINF:-1 tvg-id="INTER MIAMI FC" tvg-logo="https://th.bing.com/th/id/R.b8d4aaae0b774508f993de646eb0795d?rik=Mrlrjhfh0pWLNw&pid=ImgRaw&r=0" group-title="internacionales", Inter Miami FC
+https://cxvpy2s.la10tv.com/mls3/tracks-v1a1/mono.m3u8?id=128.201.238.109&token=7112caef385f1ac27458d0d1f95315daa76fcdf2-26-1729416304-1729380304
 
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telemax.png" group-title="Nacionales", Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
