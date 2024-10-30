@@ -5,6 +5,46 @@ http://181.13.173.86:8000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-id="INTER MIAMI FC" tvg-logo="https://th.bing.com/th/id/R.b8d4aaae0b774508f993de646eb0795d?rik=Mrlrjhfh0pWLNw&pid=ImgRaw&r=0" group-title="internacionales", Inter Miami FC
 https://cxvpy2s.la10tv.com/mls3/tracks-v1a1/mono.m3u8?id=128.201.238.109&token=7112caef385f1ac27458d0d1f95315daa76fcdf2-26-1729416304-1729380304
 
+#EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065066731041931265/1tP54glH_400x400.jpg" group-title="CORDOBA", TELEFE CORDOBA
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/cordobatelefe.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png" group-title="CORDOBA" , EL DOCE CORDOBA
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/eldoce.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_KE5xzh4tUVGvJkY62MsCG3udKpDsak18a9uJ6bEhq1g6KuxSsw7KueStQlSukQPjpIUlBdkuIvEPTdsVMWS8OmSSVfCoV8hzRbVtbZt3fgoKTAnprQ8dJyQA_dnOOnEt-jOw1y2bvofywmD7BjqsmL_xsUZaum-lYb8FFdwD5zOMQ51lzS8APfXZ/s320/canal9-lr.png" group-title="LA RIOJA", CANAL 9 LA RIOJA
+https://inliveserver.com:1936/12014/12014/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.fenix951.com.ar/nuevo_2013/a2017/assets/imgapp/logocanal.jpeg" group-title="LA RIOJA", FENIX LA RIOJA
+https://stmvideo3.livecastv.com/fenixrioja/fenixrioja/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--13LR.png" group-title="LA RIOJA", CANAL 13 LA RIOJA
+https://stream.arcast.net:4443/mp/mp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Elonce_TV_Salta.png/640px-Elonce_TV_Salta.png" group-title="SALTA", EL ONCE TV SALTA
+https://ythls.armelin.one/channel/UCy-r-BQ5BQRU6rzGS73-WBQ.m3u8
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-4uuTlgBxIrI/T-8fuime0xI/AAAAAAAAAu0/az3W_0QE8Aw/s1600/canal2.jpg" group-title="SALTA", CANAL 2 SALTA
+https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/182lIA0RwU35mgnPDd0dCdQMqIUSmyfNyJFBPyWBi6ZoGfPi-sxF5sY09riVLaZG7DhP" group-title="SALTA", CANAL 7 SALTA
+https://glb.bozztv.com/glb/ssh101/canal7salta/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/-tA30i615UkGDDL-NfvfMx8eV0LqTj3ely88Ijg8LsKe-y7FelHARDgjOsSsgtgt5Gf8sGvG=s176-c-k-c0x00ffffff-no-rj" group-title="TUCUMAN", LA GACETA PLAY
+https://ythls.armelin.one/channel/UCowbI8idnvQTl2sFxkOvnKw.m3u8 
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBPkoMgNeNKLxEvCJoh6Zlms2uYE05yG53weTL1Oivm_VRyDtNleO9gf1oKgY4cTHYpFA&usqp=CAU" group-title="TUCUMAN", EL OCHO TUCUMAN
+https://ythls.armelin.one/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8 
+
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVE4QANzgXzGz73LJphirPDunehTTXLwO7QOPPhtQ=s88-c-k-c0x00ffffff-no-rj"  group-title="TUCUMAN", AMERICA TUCUMAN
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0403
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1097897648948948992/bS8JOGDt_400x400.png" group-title="TUCUMAN", CANAL 5 TUCUMAN
+https://videohd.live:19360/8090/8090.m3u8
+
+
+
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telemax.png" group-title="Nacionales", Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Net.png" group-title="Nacionales", Net TV
@@ -79,6 +119,16 @@ https://27613.live.streamtheworld.com/DISNEY_ARG_BA.mp3
 https://stmvideo1.livecastv.com/valleviejo/valleviejo/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSw2yMcTqhKdvfWtFct2pBroKSFgxMlqYTAw&usqp=CAU" group-title="CATAMARCA", CANAL 7 CATAMARCA
+https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ltocatamarca.github.io/Logo/LTO%201%20Foto%20Portada-1.png" group-title="CATAMARCA", LTO CATAMARCA
+https://ltocatamarca.github.io/ltotv.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/RPH_beUtDGmI6kKxPlh37nyjWk-ovJivplSRGTrI6ZMJX3DITW1YZttFsgOagR5Wvi1hFa6ccA=s900-c-k-c0x00ffffff-no-rj" group-title="CATAMARCA", INFORAMA RADIO CATAMARCA
+https://streamlov.alsolnet.com/inforamaradio/live/playlist.m3u8
+
+
 #EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png", Locomotion 
 http://51.222.85.85:81/hls/loco/index.m3u8
 
@@ -90,7 +140,7 @@ https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
 https://xhateaec.com:8800/hls/bigtv/bigtv/2e7c0930c48d249969862b4c76ab97c8/index.m3u8
 
 #EXTINF:-1 tvg-id="Magic Kids Tv" tvg-name="Magic Kids Tv" tvg-logo="https://i.imgur.com/aSJxuYm.png" group-title="CANALES INDEPENDIENTES",Magic Kids Tv | Argentina
-https://ssh101.bozztv.com/ssh101/magic2019/playlist.m3u8
+https://giatv.bozztv.com/giatv/giatv-magicplus/magicplus/chunks.m3u8
 #EXTINF:-1 tvg-id="Magic Kids" tvg-name="Magic Kids" tvg-logo="https://i.imgur.com/k8hx0C6.png" group-title="CANALES INDEPENDIENTES",Magic Kids | Argentina
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://th.bing.com/th/id/OIP.xwVR3qKRlH29y77n5HN6IAHaDf?rs=1&pid=ImgDetMain" group-title="CANALES INDEPENDIENTES",Cartoon Network | Argentina
