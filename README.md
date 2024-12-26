@@ -144,7 +144,7 @@ https://giatv.bozztv.com/giatv/giatv-magicplus/magicplus/chunks.m3u8
 #EXTINF:-1 tvg-id="Magic Kids" tvg-name="Magic Kids" tvg-logo="https://i.imgur.com/k8hx0C6.png" group-title="CANALES INDEPENDIENTES",Magic Kids | Argentina
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="EL Magic Tv" tvg-name="El Magic Tv" tvg-logo="https://i.imgur.com/aSJxuYm.png" group-title="CANALES INDEPENDIENTES", El MagicTv | Argentina
-https://kali.vdopanel.com:3063/live/va5k15usylive.m3u8
+https://kali.vdopanel.com:3063/stream/play.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://th.bing.com/th/id/OIP.xwVR3qKRlH29y77n5HN6IAHaDf?rs=1&pid=ImgDetMain" group-title="CANALES INDEPENDIENTES",Cartoon Network | Argentina
 https://envivo.cncity.live/hls/cncity.m3u8
 #EXTINF:-1 tvg-id="Dreiko TV" tvg-name="Dreiko TV" tvg-logo="https://i.imgur.com/eaqJWmD.png" group-title="CANALES INDEPENDIENTES",Dreiko TV
