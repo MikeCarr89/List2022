@@ -143,7 +143,7 @@ https://xhateaec.com:8800/hls/bigtv/bigtv/2e7c0930c48d249969862b4c76ab97c8/index
 https://giatv.bozztv.com/giatv/giatv-magicplus/magicplus/chunks.m3u8
 #EXTINF:-1 tvg-id="Magic Kids" tvg-name="Magic Kids" tvg-logo="https://i.imgur.com/k8hx0C6.png" group-title="CANALES INDEPENDIENTES",Magic Kids | Argentina
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
-
+#EXTINF:-1 group-title="ARGENTINA",EL MAGIC TV
 https://kali.vdopanel.com:3063/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://th.bing.com/th/id/OIP.xwVR3qKRlH29y77n5HN6IAHaDf?rs=1&pid=ImgDetMain" group-title="CANALES INDEPENDIENTES",Cartoon Network | Argentina
