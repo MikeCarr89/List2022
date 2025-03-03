@@ -132,7 +132,7 @@ https://streamlov.alsolnet.com/inforamaradio/live/playlist.m3u8
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://scontent.ftuc1-2.fna.fbcdn.net/v/t39.30808-6/433739776_10232371532739349_128802427437970138_n.jpg?stp=dst-jpg_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=2285d6&_nc_eui2=AeFarTbQe0U2Ubf41Oryr04IJedJNZV2nAUl50k1lXacBQYQtXhzfvEvm4GU0NVYVoxPq5iIEtkC4-FPdfSuueB2&_nc_ohc=lRj43mO22uIQ7kNvgHHOYYd&_nc_ht=scontent.ftuc1-2.fna&oh=00_AYD2n39y08ulqDouVG5wQMS3wMm7azD03d-Jn2iU0xI-Uw&oe=66D9A29A" group-title="Familiares",Retro Magico
-
+https://vsd165.okcdn.ru/dash/stream_4858246007425/stream.manifest/sig/7fezECOlo5Q/expires/1741108137159/srcIp/128.201.238.110/urls/45.136.20.86/clientType/0/srcAg/GECKO/mid/6035274800769/stream-medium.jidx?_rnd=669730073
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JntjRHcx/bigtv.jpg" group-title="Animados | Variado",Big TV 
 https://stream.gia.tv/giatv/giatv-bigtv/bigtv/chunks.m3u8
 
