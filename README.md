@@ -128,36 +128,28 @@ https://ltocatamarca.github.io/ltotv.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/RPH_beUtDGmI6kKxPlh37nyjWk-ovJivplSRGTrI6ZMJX3DITW1YZttFsgOagR5Wvi1hFa6ccA=s900-c-k-c0x00ffffff-no-rj" group-title="CATAMARCA", INFORAMA RADIO CATAMARCA
 https://streamlov.alsolnet.com/inforamaradio/live/playlist.m3u8
 
-
 #EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png", Locomotion 
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://scontent.ftuc1-1.fna.fbcdn.net/v/t39.30808-6/294424222_441156204688997_2193994425550933446_n.png?_nc_cat=108&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeGJxQGUWUbN-yUvQFEcGjdE3EOYFWzYFtbcQ5gVbNgW1k2XdhTdplnT0YPhOpR1_lIH_DDF_ik3kcsmMAfO0JZi&_nc_ohc=G2eFVgr4icgQ7kNvgGS1LLz&_nc_ht=scontent.ftuc1-1.fna&oh=00_AYDAV1YoEVBVf35bM3yNxI2ar7Jpw2N3JWu2e2pujf2-4w&oe=66D976B3" group-title="Familiares",ACS NETWORK TV
-https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://scontent.ftuc1-2.fna.fbcdn.net/v/t39.30808-6/433739776_10232371532739349_128802427437970138_n.jpg?stp=dst-jpg_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=2285d6&_nc_eui2=AeFarTbQe0U2Ubf41Oryr04IJedJNZV2nAUl50k1lXacBQYQtXhzfvEvm4GU0NVYVoxPq5iIEtkC4-FPdfSuueB2&_nc_ohc=lRj43mO22uIQ7kNvgHHOYYd&_nc_ht=scontent.ftuc1-2.fna&oh=00_AYD2n39y08ulqDouVG5wQMS3wMm7azD03d-Jn2iU0xI-Uw&oe=66D9A29A" group-title="Familiares",Retro Magico
-https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JntjRHcx/bigtv.jpg" group-title="Animados | Variado",Big TV 
-https://xhateaec.com:8800/hls/bigtv/bigtv/2e7c0930c48d249969862b4c76ab97c8/index.m3u8
+https://stream.gia.tv/giatv/giatv-bigtv/bigtv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Magic Kids Tv" tvg-name="Magic Kids Tv" tvg-logo="https://i.imgur.com/aSJxuYm.png" group-title="CANALES INDEPENDIENTES",Magic Kids Tv | Argentina
 https://giatv.bozztv.com/giatv/giatv-magicplus/magicplus/chunks.m3u8
 #EXTINF:-1 tvg-id="Magic Kids" tvg-name="Magic Kids" tvg-logo="https://i.imgur.com/k8hx0C6.png" group-title="CANALES INDEPENDIENTES",Magic Kids | Argentina
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
 #EXTINF:-1 group-title="ARGENTINA",EL MAGIC TV
-https://kali.vdopanel.com:3063/stream/play.m3u8
+https://kali.vdopanel.com:3519/live/vaej0kboxlive.m3u8
 
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://th.bing.com/th/id/OIP.xwVR3qKRlH29y77n5HN6IAHaDf?rs=1&pid=ImgDetMain" group-title="CANALES INDEPENDIENTES",Cartoon Network | Argentina
-https://envivo.cncity.live/hls/cncity.m3u8
+
 #EXTINF:-1 tvg-id="Dreiko TV" tvg-name="Dreiko TV" tvg-logo="https://i.imgur.com/eaqJWmD.png" group-title="CANALES INDEPENDIENTES",Dreiko TV
 https://cloudvideo.servers10.com:8081/8096/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Latino Kids Tv" tvg-name="Latino Kids Tv" tvg-logo="https://i.imgur.com/BArIlh7.jpg" group-title="CANALES INDEPENDIENTES",Latino Kids TV 
 https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3YrRxQ3/Etc.jpg" group-title="Animados | Variado",ETC (CL)
-http://186.148.195.206:8000/play/a06q/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3YrRxQ3/Etc.jpg" group-title="Animados | Variado",ETC | Opción 2 (CL)
-http://181.129.198.238:8000/play/a06n/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xd31gqj3/ztv2.jpg" group-title="Animados | Variado",ZTV | Anime (CL)
 https://mitv.zplay.cl/ZAnime/tracks-v1a1/mono.m3u8?token=_3X8xrfOrbW3B_
 
@@ -166,8 +158,7 @@ https://mitv.zplay.cl/ZRetro/tracks-v1a1/mono.m3u8?token=_3X8xrfOrbW3B_
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://th.bing.com/th/id/OIP.oFAEGALczOhCO0aXJkMn0wAAAA?rs=1&pid=ImgDetMain" group-title="Familiares",Teleclasica
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
-#EXTINF:-1 tvg-id="rETROTVCR" tvg-name="rETROTVCR" tvg-logo="https://th.bing.com/th/id/OIP.4uYNkAdnf5yRtT3EO1LdowHaEK?rs=1&pid=ImgDetMain" group-title="CANALES INDEPENDIENTES",tvcr
-https://fl1002.bozztv.com/ssh101/retrotvcr/index.m3u8
+
 #EXTINF:-1 tvg-id="Ciudad Magica Tv" tvg-name="Ciudad Magica Tv" tvg-logo="https://i.imgur.com/ydqK2H0.png" group-title="CANALES INDEPENDIENTES",Ciudad Magica Tv | Argentina
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 #EXTINF:-1 tvg-id="Mi TV Television Clasica" tvg-name="Mi TV Television Clasica" tvg-logo="https://i.imgur.com/8rJZuk0.png"  group-title="CANALES INDEPENDIENTES",Mi TV Television Clasica | USA
@@ -186,35 +177,14 @@ https://mitv.zplay.cl/Avi/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 tvg-id="Zaz TV" tvg-name="Zaz TV" tvg-logo="https://i.imgur.com/DdYrpbY.png" group-title="INFANTILES",Zaz TV | Mexico
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 
-#EXTINF:-1 tvg-id="Retro Plus TV" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="MUSICA",Retro Plus TV | Chile
-https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Retro Plus 2 TV" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="MUSICA",Retro Plus 2 TV
-https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Retro Plus TV" tvg-name="Retro Plus TV" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="FAMILIARES",Retro Plus TV 3 | Chile
 https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Retropalmares" tvg-logo= "https://th.bing.com/th/id/OIP.VXCkIWL9TQB056hxir7huAHaHa?rs=1&pid=ImgDetMain" group-title="Familiares",TV Retro Palmares
-https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 #EXTINF:-1 tvg-id="Retrocanal 2" tvg-logo= "https://th.bing.com/th/id/OIP.oIFTHQEI6uyNQnPVbLIqeQHaHa?rs=1&pid=ImgDetMain" group-title="Familiares",TV Retro Canal 2
 https://fl1002.bozztv.com/ssh101/variado/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0c2.png",Adult Swim HD
 http://177.53.153.20:8001/play/a02k/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/adults.png"group-title="Entretenimiento", Adult Swin
-http://45.228.234.210:8000/play/a058/index.m3u8
-
-#EXTINF:-1 tvg-name="Max Anime" tvg-id="Max Anime" tvg-logo="https://i.imgur.com/aiCirDm.png" group-title="JOVENES Y ADULTOS",Max Anime | Argentina
-https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
-#EXTINF:-1 tvg-id="Toonami Tv" tvg-name="Toonami Tv" tvg-logo="https://imgur.com/UJwhZfS.jpg" group-title="JOVENES Y ADULTOS",Toonami Tv | ND
-https://fl1001.bozztv.com/ssh101/toonamitv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Toonami Tv" tvg-name="Toonami Tv" tvg-logo="https://imgur.com/UJwhZfS.jpg" group-title="JOVENES Y ADULTOS",Toonami Tv op2 | ND
-https://glb.bozztv.com/glb/ssh101/toonamitv/index.m3u8
-
-#EXTINF:-1 tvg-id="Ani Retro" tvg-name="Ani Retro" tvg-logo="https://i.ibb.co/Np8WdpM/Logo-Ani-Retro.png" group-title="JOVENES Y ADULTOS",Ani Retro | Chile
-https://tv.streaming-chile.com:19360/8068/8068.m3u8
 
 #EXTINF:-1,Latino | A3S
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/565
