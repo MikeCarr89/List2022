@@ -32,11 +32,8 @@ http://181.13.173.86:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="Gen TV" tvg-name="Gen TV" tvg-logo="https://i.imgur.com/4qV8fYs.jpg" group-title="FAMILIARES",GenTV HD | Argentina
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="NACIONALES", TELEFE 34.1
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8  
-
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="NACIONALES", TELEFE 34.1
-https://bvsat02.cdn.rcs.net.ar/mnp/telefe/output.mpd
+#EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065066731041931265/1tP54glH_400x400.jpg" group-title="CORDOBA", TELEFE 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0222
 
 
 
