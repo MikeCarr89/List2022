@@ -3,6 +3,12 @@
 #EXTINF:-1 tvg-id="LN" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="Nacionales", LN+
 http://181.13.173.86:8000/play/a01s/index.m3u8
 
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="NACIONALES", TELEFE
+http://190.123.90.146:8000/play/a03c/index.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="NACIONALES", TELEFE op2
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0383 
+
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-4uuTlgBxIrI/T-8fuime0xI/AAAAAAAAAu0/az3W_0QE8Aw/s1600/canal2.jpg" group-title="SALTA", CANAL 2 SALTA
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
 
@@ -155,15 +161,37 @@ https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
 http://200.59.188.3:8000/play/a02d
 #EXTINF:-1 group-title="TV PREMIUM",Golden Premier
 http://138.118.105.190:8000/play/a060/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6XQjTLV1YxXlHhne0eIg6T/7cdfa6b28114f0c346bf0ba3be684c5b/88_HogarTV.png?fm=webp&q=80" group-title="Culturales" , HGTV 
+http://181.209.95.29:8000/play/a02j/index.m3u8
 
-#EXTINF:-1 group-title="TV PREMIUM",AyA
-http://190.61.42.218:9000/play/a00u
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/50.png" group-title="Culturales", E! 
+http://160.20.165.246:8000/play/a00l/index.m3u8
+
+#EXTINF:-1 tvg-id="MTVSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-MTV.png" audio-track="spa" group-title="Musica", MTV
+http://181.13.173.86:8000/play/a02m/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.reportv.com.ar/buscador/img/Logos/9332819.jpg" group-title="Musica", Quiero Musica
+http://181.13.173.86:8000/play/a02n/index.m3u8
+
+#EXTINF:-1 tvg-id="CMElCanaldelaMusica.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="Musica", CM
+#EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
+https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_540p.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2G4IHnfxSj2GwTRpmR53wy/7ee34ba27d8dab44e2dddd82b16aca9f/558-mtv_00s.png?fm=webp&q=80" group-title="Musica" , MTV 00's
+http://181.78.109.49:8000/play/a03t/index.m3u8
+
+#EXTINF:-1 tvg-id="HTV.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-HTV.png" audio-track="spa" group-title="Musica", HTV
+http://181.209.95.29:8000/play/a02o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/33QT9mcUIUX6ezV5xXA61r/6da57dc09d602d6ba128357517588d3c/115_MTVHits.png?fm=webp&q=80" group-title="Musica" , MTV Hits
+http://45.5.117.182:8000/play/a0f1/index.m3u8
 
 #EXTINF:-1 group-title="TV PREMIUM",TIGO SPORTS GUATEMALA
 https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",Televisa
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Entretenimiento", ID
+http://45.230.38.117:8000/play/a07i
 #EXTINF:-1 group-title="TV PREMIUM",Uno
 http://181.78.105.146:2000/play/a04p/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",LAS ESTRELLAS
