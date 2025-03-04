@@ -32,8 +32,14 @@ http://181.13.173.86:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="Gen TV" tvg-name="Gen TV" tvg-logo="https://i.imgur.com/4qV8fYs.jpg" group-title="FAMILIARES",GenTV HD | Argentina
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ARGENTINA |TELEFE (AR)#EXTINF:-1 tvg-logo="" group-title="TELEFE
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1741135766~acl=%2f*~data=hdntl~hmac=4130662d2679f255cebeff9ac3198b7d16c66c17b75ede34a9fe81122ae23bde/master-mtlf2.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="NACIONALES", TELEFE 34.1
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8  
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="NACIONALES", TELEFE 34.1
+https://bvsat02.cdn.rcs.net.ar/mnp/telefe/output.mpd
+
+
+
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1344843564535132160/xT96d8Zv_400x400.jpg" group-title="AMBA", CANAL 13  33.1
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
