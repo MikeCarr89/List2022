@@ -75,9 +75,9 @@ https://ythls.armelin.one/channel/UCLAj5TzCrNbqe3LosSKHLcQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://fmaspen.com/wp-content/themes/aspen/images/logoaspen.png" group-title="NACIONALES", RADIO ASPEN 102.3
 https://27373.live.streamtheworld.com/ASPEN.mp3
-
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Y3yI1SZzwS-gsv3TSBdzheQ4EObiOFWuLHbphJrXMe1BAc3YXxuZK8njmO3jm6xf-IaSrda6JQ=s160-c-k-c0x00ffffff-no-rj" group-title="CATAMARCA", RADIO VALLE VIEJO 104.1 FM CATAMARCA
 https://stream.arcast.ar/radiovalleviejo/ngrp:radiovalleviejo_all/playlist.m3u8
+
 
 #EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png", Locomotion 
 http://51.222.85.85:81/hls/loco/index.m3u8
@@ -99,15 +99,9 @@ https://stream.gia.tv/giatv/giatv-bigtv/bigtv/chunks.m3u8
 https://giatv.bozztv.com/giatv/giatv-magicplus/magicplus/chunks.m3u8
 #EXTINF:-1 tvg-id="Magic Kids" tvg-name="Magic Kids" tvg-logo="https://i.imgur.com/k8hx0C6.png" group-title="CANALES INDEPENDIENTES",Magic Kids | Argentina
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
-#EXTINF:-1 group-title="ARGENTINA",EL MAGIC TV
-https://kali.vdopanel.com:3519/live/vaej0kboxlive.m3u8
-
 
 #EXTINF:-1 tvg-id="Dreiko TV" tvg-name="Dreiko TV" tvg-logo="https://i.imgur.com/eaqJWmD.png" group-title="CANALES INDEPENDIENTES",Dreiko TV
 https://cloudvideo.servers10.com:8081/8096/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Latino Kids Tv" tvg-name="Latino Kids Tv" tvg-logo="https://i.imgur.com/BArIlh7.jpg" group-title="CANALES INDEPENDIENTES",Latino Kids TV 
-https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="Bit Me" tvg-name="Bit Me" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bitme.png" group-title="TV PREMIUM",Bit Me | Mexico
 http://190.60.33.245:4002/play/a0kd
