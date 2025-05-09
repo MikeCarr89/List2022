@@ -83,7 +83,7 @@ https://stream.gia.tv/giatv/giatv-retromagico/retromagico/playlist.m3u8
 https://stream.gia.tv/giatv/giatv-bigtv/bigtv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Magic Kids Tv" tvg-name="Magic Kids Tv" tvg-logo="https://i.imgur.com/aSJxuYm.png" group-title="CANALES INDEPENDIENTES",Magic Kids Tv | Argentina
-https://giatv.bozztv.com/giatv/giatv-magicplus/magicplus/chunks.m3u8
+https://stream.gia.tv/giatv/giatv-Premium/Premium/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Magic Kids" tvg-name="Magic Kids" tvg-logo="https://i.imgur.com/k8hx0C6.png" group-title="CANALES INDEPENDIENTES",Magic Kids | Argentina
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
